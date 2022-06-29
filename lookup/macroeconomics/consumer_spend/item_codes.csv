@@ -1,0 +1,155 @@
+item_code,item_text
+ALCBEVG,Alcoholic beverages
+APPAREL,Apparel and services
+BOYS,"Apparel, Boys, 2 to 15"
+FOOTWEAR,Footwear
+GIRLS,"Apparel, Girls, 2 to 15"
+INFANT,"Apparel, Children under"
+MENBOYS,"Apparel, Men and boys"
+MENS,"Apparel, Men, 16 and over"
+OTHAPPRL,Other apparel products and services
+WMNSGRLS,"Apparel, Women and girls"
+WOMENS,"Apparel, Women, 16 and over"
+CASHCONT,Cash contributions
+CHGASLI,Net change in total assets and liabilities
+CHGASSET,Net change in total assets
+CHGLIAB,Net change in total liabilities
+CONSUNIT,Number of consumer units (in thousands)
+EDUCATN,Education
+ENTEROTH,"Entertainment: other supplies, equip., & services"
+ENTRTAIN,Entertainment
+FEESADM,Entertainment: fees and admissions
+PETS,Pets
+PETSPLAY,"Pets, toys, and playground equipment"
+TOYS,"Toys, hobbies, and playground equipment"
+TVAUDIO,Audio and visual equipment and services
+80110,Eggs
+190904,"Food prep. by consumer unit, out-of-town trips"
+ANIMAL,"Meats, poultry, fish, and eggs"
+BAKERY,Bakery products
+BEEF,Beef
+CERBAKRY,Cereals and bakery products
+CEREAL ,Cereals and cereal products
+DAIRY,Dairy products
+FATSOILS,Fats and oils
+FISHSEA,Fish and seafood
+FOODAWAY,Food away from home
+FOODHOME,Food at home
+FOODTOTL,Food
+FRESHVEG,Fresh vegetables
+FRSHFRUT,Fresh fruits
+FRUITVEG,Fruits and vegetables
+MILKCRM,Fresh milk and cream
+MISCFOOD,Miscellaneous foods
+NALCBEVG,Nonalcoholic beverages
+OTHDAIRY,Other dairy products
+OTHRFOOD,Other food at home
+OTHRMEAT,Other meats
+PORK,Pork
+POULTRY,Poultry
+PROCFRUT,Processed fruits
+PROCVEG,Processed vegetables
+SWEETS,Sugar and other sweets
+DRUGS,Drugs: Prescription and nonprescription
+HEALTH,Healthcare
+HLTHINSR,Health insurance
+MEDSERVS,Medical services
+MEDSUPPL,Medical supplies
+220211,Property taxes
+270102,Cellular phone service
+ELECTRIC,Electricity
+FLOORCOV,Floor coverings
+FURNITUR,Furniture
+HHFURNSH,Household furnishings and equipment
+HHOPER,Household operations
+HHOTHXPN,Other household expenses
+HHPERSRV,Personal services
+HHTXTILE,Household textiles
+HKPGOTHR,Other household products
+HKPGSUPP,Housekeeping supplies
+HOUSING,Housing
+LAUNDRY,Laundry and cleaning supplies
+MAJAPPL,Major appliances
+MISCHHEQ,Miscellaneous household equipment
+NATRLGAS,Natural gas
+OTHLODGE,Other lodging
+OTHRFUEL,Fuel oil and other fuels
+OWNDWELL,Owned dwellings
+OWNEXPEN,"Maintenance, rep., ins., oth. exp., owned dwelling"
+OWNMORTG,Mortgage interest and charges
+PHONE,Telephone services
+POSTAGE,Postage and stationery
+RESPHONE,"Residential phone service, VOIP, and phone cards"
+RNTDWELL,Rented dwellings
+SHELTER,Shelter
+SMAPPHWR,"Small appliances, misc. housewares"
+UTILS,"Utilities, fuels, and public services"
+WATER,Water and other public services
+INCAFTTX,Income after taxes
+900000,Wages and salaries
+INCBEFTX,Income before taxes
+INDIVRNT,"Interest, dividends, rent income, property income"
+OTHBNFTS,"Unemp. & workers' compen., veterans benefits"
+OTHREGIN,"Unemp and workrs' comp, vet bnfits, reg contrib"
+OTHRINC,Other income
+REGCONT,Regular contributions for support
+RETIRINC,"Social Security, private & government retirement"
+SFEMPINC,Self-employment income
+WELFARE,"Public assist., suplmntl. secrty. income, SNAP"
+INSPENSN,Personal insurance and pensions
+LIFEINSR,Life and other personal insurance
+PENSIONS,Pensions and Social Security
+MISC,Miscellaneous expenditures
+PERSCARE,Personal care products and services
+FEDTAXES,Federal income taxes
+OTHRTAX,Other taxes
+PERSTAX,Personal taxes
+STATETAX,State and local income taxes
+READING,Reading
+980010,Number of People in CU
+980020,Age of reference person
+980030,Number of Earners
+980050,Number of Children under 18
+980060,Adults 65 and older
+INCAFTAX,Income after taxes
+INCBFTAX,Income before taxes
+TITLEACU,Average number in consumer unit:
+VEHICLES,Number of Vehicles
+800721,Estimated market value of owned home
+910050,Est. monthly rental value of owned home
+MRTPRINP,"Mortgage principal paid, owned property 1"
+OTHRMONY,Other money receipts
+980210,Percent Men reference persons
+980220,Percent Women reference persons
+980230,Percent Homeowner with mortgage
+980240,Percent Homeowner without mortgage
+980260,Percent Renter
+980270,Percent Black or African American
+980285,Percent Hispanic or Latino
+980286,Percent Not Hispanic or Latino
+980290,Percent Elementary (1-8)
+980300,Percent High school (9-12)
+980310,Percent College
+980320,Percent Never attended school and other
+980350,At least one vehicle owned or leased
+HOMEOWN,Percent Homeowner
+TITLEEDU,Education of reference person
+TITLEHOP,Hispanic or Latino origin of reference person
+TITLEHT,Housing tenure
+TITLERRP,Race of reference person:
+TITLESRP,Reference person:
+WHTNDOTH,"Percent White, Asian, and All Other Races"
+TOBACCO,Tobacco products and smoking supplies
+TOTALEXP,Total average annual expenditures
+500110,Vehicle insurance
+CAREPAIR,Vehicle maintenance and repairs 2
+GASOIL,"Gasoline, other fuels, and motor oil"
+NEWCARS,"Vehicle purchases: Cars and trucks, new"
+OTHVEHCL,Other vehicle purchases
+PUBTRANS,Public and other transportation
+TRANS,Transportation
+USEDCARS,"Vehicle purchases: Cars and trucks, used"
+VEHFINCH,Vehicle finance charges
+VEHOTHXP,Other vehicle expenses
+VEHPURCH,Vehicle purchases (net outlay)
+VEHRNTLC,"Vehicle. rent., leas., licen., oth. charges"

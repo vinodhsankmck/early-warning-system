@@ -1,0 +1,131 @@
+naics_code,industry_name
+511---,Record Production and Distribution
+721---,Accommodation
+1133--,Logging
+3118--,Cookie Cracker and Pasta Manufacturing
+4231--,Motor Vehicle Supplies and New Parts Merchant Wholesalers
+4232--,Furniture and home furnishing merchant wholesalers
+4233--,Lumber and other construction materials merchant wholesalers
+4234--,Professional and commercial equipment and supplies merchant wholesalers
+4236--,Household appliances and electrical and electronic goods merchant wholesalers
+4238--,"Machinery, equipment, and supplies merchant wholesalers"
+4239--,Miscellaneous durable goods merchant wholesalers (except materials recyclers)
+4242--,Drugs and Druggists' Sundries Merchant Wholesalers
+4243--,Apparel and piece goods merchant wholesalers
+4244--,Grocery and related product merchant wholesalers
+4245--,Grain and Field Bean Merchant Wholesalers
+4245--,Other Farm Product Raw Material Merchant Wholesalers
+4247--,Petroleum and Petroleum Products Merchant Wholesalers (excep
+4248--,Wine and Distilled Alcoholic Beverage Merchant Wholesalers
+4249--,Miscellaneous nondurable goods merchant wholesalers
+4431--,Electronics and Appliance Stores - DO NOT USE
+4441--,Other Building Material Dealers - DO NOT USE
+4452--,Other Specialty Food Retailers
+4461--,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE
+4471--,Gasoline Stations with Convenience Stores - DO NOT USE
+4481--,Clothing stores
+5221--,Trusts Estates and Agency Accounts
+5411--,Legal services
+5413--,Testing Laboratories and Services
+5613--,Employment services
+5621--,All Other Waste Management Services
+6211--,Offices of physicians
+8113--,Commercial machinery repair and maintenance
+31123-,Breakfast Cereal Manufacturing
+31134-,Nonchocolate Confectionery Manufacturing
+31135-,Chocolate and Confectionery Manufacturing
+31141-,Frozen Food Manufacturing
+31142-,Fruit and Vegetable Canning Pickling and Drying
+31151-,Dairy Product (except Frozen) Manufacturing
+31161-,Animal Slaughtering and Processing
+31171-,Seafood Product Preparation and Packaging
+31181-,Bread and Bakery Product Manufacturing
+31191-,Snack Food Manufacturing
+31194-,Seasoning and Dressing Manufacturing
+31199-,All Other Food Manufacturing
+31211-,Soft Drink and Ice Manufacturing
+31212-,Breweries
+31213-,Wineries
+31214-,Distilleries
+31223-,Tobacco Manufacturing
+31331-,Textile and Fabric Finishing Mills
+31411-,Carpet and Rug Mills
+31522-,Men's and Boys' Cut and Sew Apparel Manufacturing - DO NOT U
+31524-,Women's Girls' and Infants' Cut and Sew Apparel Manufacturin
+31599-,Apparel Accessories and Other Apparel Manufacturing
+31611-,Leather and Hide Tanning and Finishing
+31621-,Footwear Manufacturing
+31699-,Other Leather and Allied Product Manufacturing
+32518-,Other Basic Inorganic Chemical Manufacturing
+32531-,Fertilizer and Compost Manufacturing
+32541-,Pharmaceutical and Medicine Manufacturing
+32561-,Soap and Cleaning Compound Manufacturing
+32562-,Toilet Preparation Manufacturing
+32599-,All Other Chemical Product and Preparation Manufacturing
+32616-,Plastics Bottle Manufacturing
+32619-,Other Plastics Product Manufacturing
+33211-,Forging and Stamping
+33221-,Cutlery and Handtool Manufacturing
+33451-,Navigational Measuring Electromedical and Control Instrument
+33511-,Electric Lamp Bulb and Part Manufacturing - DO NOT USE
+33512-,Lighting Fixture Manufacturing - DO NOT USE
+33591-,Battery Manufacturing
+33599-,All Other Electrical Equipment and Component Manufacturing
+33712-,Household and Institutional Furniture Manufacturing
+33791-,Mattress Manufacturing
+33911-,Medical Equipment and Supplies Manufacturing
+33991-,Jewelry and Silverware Manufacturing
+33992-,Sporting and Athletic Goods Manufacturing
+33995-,Sign Manufacturing
+33999-,All Other Miscellaneous Manufacturing
+44131-,Automotive Parts and Accessories Stores - DO NOT USE
+44211-,Furniture Stores - DO NOT USE
+44221-,Floor Covering Stores - DO NOT USE
+44511-,Supermarkets and Other Grocery Retailers (except Convenience
+44611-,Pharmacies and Drug Stores - DO NOT USE
+44831-,Jewelry Stores - DO NOT USE
+45111-,Sporting Goods Stores - DO NOT USE
+45112-,Hobby Toy and Game Stores - DO NOT USE
+45431-,Other Direct Selling Establishments - DO NOT USE
+45431-,Fuel Dealers - DO NOT USE
+48851-,Freight Transportation Arrangement
+51121-,Software Publishers - DO NOT USE
+52411-,Direct Life Health and Medical Insurance Carriers
+52421-,Other Insurance Related Activities
+53112-,Lessors of Nonresidential Buildings (except Miniwarehouses)
+53112-,Lessors of Other Real Estate Property
+53112-,Lessors of Residential Buildings and Dwellings
+53112-,Lessors of Nonfinancial Intangible Assets (except Copyrighte
+53121-,Offices of Real Estate Agents and Brokers
+53131-,Other Activities Related to Real Estate
+53131-,Real Estate Property Managers
+54161-,Management Consulting Services
+54181-,Other Services Related to Advertising
+56151-,Tour Operators
+56172-,Landscaping Services
+62111-,Offices of Physicians
+62121-,Offices of Dentists
+62151-,Medical and Diagnostic Laboratories
+62199-,All Other Ambulatory Health Care Services
+62211-,General Medical and Surgical Hospitals
+62231-,Specialty (except Psychiatric and Substance Abuse) Hospitals
+62311-,Nursing Care Facilities (Skilled Nursing Facilities)
+71391-,All Other Amusement and Recreation Industries
+71394-,Fitness and Recreational Sports Centers
+236211,Other Heavy and Civil Engineering Construction
+236211,Highway Street and Bridge Construction
+236211,Oil and Gas Pipeline and Related Structures Construction
+236221,Commercial and Institutional Building Construction
+425120,Business to Business Electronic Markets - DO NOT USE
+448320,Luggage and Leather Goods Stores - DO NOT USE
+453110,Florists - DO NOT USE
+453110,Used Merchandise Stores - DO NOT USE
+453930,All Other Miscellaneous Store Retailers - DO NOT USE
+453930,Art Dealers - DO NOT USE
+454110,Electronic Shopping and Mail-Order Houses - DO NOT USE
+561612,Security Systems Services
+924126,National Security
+23811X,Flooring Contractors
+23811X,All Other Specialty Trade Contractors
+23811X,Other Foundation Structure and Building Exterior Contractors
+23811X,Masonry Contractors
