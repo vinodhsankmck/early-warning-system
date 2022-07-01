@@ -46,7 +46,7 @@ def get_cpi_data_in_chunk(area_code_list,start_year,end_year):
 
 def run(start_year,end_year):
     results_df = get_cpi_data_in_chunk(['0000','0100','0200','0300','0400'],start_year,end_year)
-    results_df.to_csv("/output/macroeconomics/consumer_price_index/external_data_cpi.csv", index=False)
+    results_df.to_csv("/output/macroeconomics/consumer_price_index/cpi_data.csv", index=False)
 
 
 # run("2015","2022")

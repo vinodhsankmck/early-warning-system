@@ -1,0 +1,1024 @@
+client_name,Company,industry_code,industry_name,Item,Financial_Year,quarter,Actual_Announcement_Quarter,Reported_Revenue,YoY_Reported_Revenue_growth_L1,YoY_Reported_Revenue_growth_L2
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2012,2012-12-31,2012-12-31,3543.0,,
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2012,2013-03-31,2012-12-31,3543.0,0.0,
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2012,2013-06-30,2012-12-31,3543.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2012,2013-09-30,2012-12-31,3543.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2012,2013-12-31,2012-12-31,3543.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,3894.0,0.09906858594411516,0.09906858594411516
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,3894.0,0.0,0.09906858594411516
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,3894.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,3893.833333,-4.280097586029097e-05,-4.280097586029097e-05
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,4048.0,0.03959251817314491,0.039548022598870025
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,4048.0,0.0,0.03959251817314491
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,4048.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,4048.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,4038.0,-0.0024703557312253377,-0.0024703557312253377
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,4038.0,0.0,-0.0024703557312253377
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,4038.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,4038.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,4202.0,0.040614165428429994,0.040614165428429994
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,4202.0,0.0,0.040614165428429994
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,4202.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,4202.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,4472.0,0.06425511661113759,0.06425511661113759
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,4472.0,0.0,0.06425511661113759
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,4472.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,4472.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,4914.0,0.09883720930232553,0.09883720930232553
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,4914.0,0.0,0.09883720930232553
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,4914.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2019-12-31,2019-12-31,5163.0,0.050671550671550714,0.050671550671550714
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2020-03-31,2019-12-31,5163.0,0.0,0.050671550671550714
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2020-06-30,2019-12-31,5163.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2020-09-30,2019-12-31,5163.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2020-12-31,2019-12-31,5163.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2021-03-31,2019-12-31,5163.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2019,2021-06-30,2019-12-31,5163.0,0.0,0.0
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2020,2021-09-30,2021-09-30,5339.0,0.03408870811543685,0.03408870811543685
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2020,2021-12-31,2021-09-30,5339.0,0.0,0.03408870811543685
+AGILENT TECHNOLOGIES INC,Agilent Technologies,42345,Medical Dental and Hospital Equipment and Supplies Merchant,MedTech & Healthcare Supply,2020,2022-03-31,2021-09-30,5339.0,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,2.1,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,2.0625,-0.017857142857142905,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,2.0625,0.0,-0.017857142857142905
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-06-30,2.0625,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-06-30,5.75,1.787878787878788,1.787878787878788
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-06-30,5.75,0.0,1.787878787878788
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-06-30,5.75,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-06-30,5.75,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-06-30,910.5,157.34782608695653,157.34782608695653
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-06-30,910.5,0.0,157.34782608695653
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-06-30,910.5,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,1256.15,0.37962657880285566,0.37962657880285566
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,1256.15,0.0,0.37962657880285566
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,1256.15,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,1255.025,-0.0008955936790988606,-0.0008955936790988606
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,1458.05,0.16176968586283125,0.16072921227560388
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,1458.05,0.0,0.16176968586283125
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,1458.05,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,1458.05,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,1588.2,0.08926305682246838,0.08926305682246838
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,1588.2,0.0,0.08926305682246838
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,1588.2,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,1588.2,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-03-31,2011-03-31,1661.01696,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-03-31,1660.24196,-0.0004665816296058889,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-03-31,1740.85167,0.048552989228148435,0.048063753665706255
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-03-31,1743.149369,0.0013198706355033174,0.049936943528399835
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2012-03-31,2011-03-31,1758.275003,0.008677187548578935,0.010008510949126359
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-06-30,2716.411671,0.5449299264137919,0.5583355731346966
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-06-30,2731.780004,0.005657586132496117,0.5536705005411491
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-06-30,2759.159221,0.010022482396060406,0.015736771585973752
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-03-31,2012-06-30,2772.861753,0.00496619836061285,0.01503845439231788
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-06-30,3218.933808,0.16087064366529935,0.1666357575527535
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-06-30,3252.016483,0.01027752571916185,0.17280152156218942
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-06-30,3303.485683,0.015826857049789478,0.02626704369933397
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2014-03-31,2013-06-30,3292.234973,-0.0034057087209116155,0.012367246663798737
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-06-30,4147.288371,0.25971821726346733,0.25542798394504196
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-06-30,4796.34114,0.15650051574385704,0.45686476795713227
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-06-30,4796.81265,9.830618511830203e-05,0.15661420689764727
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-03-31,2014-06-30,4791.782884,-0.0010485641960603642,-0.0009503610912880989
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-06-30,8715.196679,0.8187795419739223,0.8168724348656813
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-06-30,8587.216296,-0.014684738361485206,0.7920712402628132
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-06-30,8566.062098,-0.0024634523308623146,-0.01711201553940289
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2016-03-31,2015-06-30,8179.987758,-0.045070224285455596,-0.0474226482672494
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-06-30,14482.54604,0.770485050645231,0.6906888923186041
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-06-30,13946.57611,-0.037007990757956466,0.7049629562538522
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-06-30,14510.92373,0.04046495824845153,0.0019594406896152883
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,14813.28489,0.020836796169970695,0.06214491450547155
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,14916.07022,0.006938726336748413,0.02792010333307693
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,15112.79865,0.013189025467057691,0.020219266842170347
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,15138.45166,0.0016974360999642002,0.01490884909497292
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-03-31,2018-03-31,12620.48433,-0.1663292512703377,-0.16491414844595986
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-03-31,12700.18597,0.006315260010310686,-0.16106440372911957
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-03-31,13744.30764,0.08221310085272715,0.0890475579711767
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-03-31,13737.16597,-0.0005196092947756803,0.08165077286659606
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,13427.91276,-0.022512155030765868,-0.02302006680054214
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,13427.95221,2.937910061229232e-06,-0.022509283259391277
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,13430.29021,0.00017411441174619569,0.00017705283334001898
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,13396.8819,-0.0024875344819521583,-0.0023138531858090117
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-03-31,2011-03-31,14660.0,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-03-31,14660.0,0.0,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-03-31,14660.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-03-31,14660.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-03-31,2012-03-31,15237.0,0.03935879945429743,0.03935879945429743
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-03-31,15237.0,0.0,0.03935879945429743
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-03-31,15237.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-03-31,15237.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-03-31,2013-03-31,16466.0,0.08065892236004468,0.08065892236004468
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-03-31,16466.0,0.0,0.08065892236004468
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-03-31,16466.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-03-31,16466.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-03-31,2014-03-31,17946.0,0.08988218146483673,0.08988218146483673
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-03-31,17946.0,0.0,0.08988218146483673
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-03-31,17946.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-03-31,17946.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-03-31,2015-03-31,19118.0,0.06530703220773426,0.06530703220773426
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-03-31,19118.0,0.0,0.06530703220773426
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-03-31,19118.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-03-31,19118.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-03-31,2016-03-31,20756.875,0.0857241866304006,0.0857241866304006
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-03-31,20722.0,-0.0016801662099906745,0.08389998953865474
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-03-31,20722.0,0.0,-0.0016801662099906745
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-03-31,20752.0,0.0014477367049512413,0.0014477367049512413
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,21741.375,0.04767612760215889,0.04919288678698974
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,21679.25,-0.002857454967774564,0.04468244024672319
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,21682.8,0.0001637510522733976,-0.0026941718267589065
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,21682.8,0.0,0.0001637510522733976
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-03-31,2018-03-31,21657.39584,-0.0011716272806094885,-0.0011716272806094885
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-03-31,21676.57125,0.0008853977708891403,-0.00028726686590285766
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-03-31,21655.20625,-0.0009856263591504488,-0.00010110125964257755
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-03-31,21637.625,-0.0008118717410044995,-0.0017966978979667703
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,22324.20515,0.031730846153401826,0.030893213035087186
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,22324.24111,1.6108076303922303e-06,0.031732508073321286
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,22349.19196,0.0011176572532547446,0.0011192698612161323
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,22370.95062,0.0009735770330732141,0.0020923224117606054
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-03-31,2020-03-31,21993.66667,-0.016864904688614457,-0.015907746939411105
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-03-31,21987.66667,-0.0002728058076911788,-0.01713310965236048
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-03-31,21987.66667,0.0,-0.0002728058076911788
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-03-31,21987.66667,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-03-31,2021-03-31,23917.0,0.08774616056156548,0.08774616056156548
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-03-31,23924.16667,0.0002996475310448332,0.08807210101298124
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-03-31,23916.83334,-0.00030652394715147135,-6.968265250595351e-06
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-06-30,361.0221485,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-06-30,361.0221485,0.0,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-06-30,361.0221485,0.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2019-03-31,2018-06-30,361.0221485,0.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-06-30,1031.359141,1.8567752568233353,1.8567752568233353
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-06-30,1143.845148,0.1090657972846727,2.1683517278718982
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-06-30,1143.772267,-6.371579241082337e-05,0.10899513227856295
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2020-03-31,2019-06-30,1143.772267,0.0,-6.371579241082337e-05
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-06-30,1206.16842,0.05455295149239703,0.05455295149239703
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-06-30,1208.071718,0.0015779703467944106,0.05621700477897651
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-06-30,1208.071718,0.0,0.0015779703467944106
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2021-03-31,2020-06-30,1208.071718,0.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2021-06-30,2020-06-30,1254.631539,0.03854061005341736,0.03854061005341736
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-09-30,1157.880022,-0.07711548290673087,-0.04154695060910274
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-09-30,1157.880022,0.0,-0.07711548290673087
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2022-03-31,2021-09-30,1157.880022,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2012-03-31,1460.0,,
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-06-30,1606.0,0.10000000000000009,
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-06-30,1606.0,0.0,0.10000000000000009
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-06-30,1606.0,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-03-31,2013-03-31,1622.0,0.00996264009962644,0.00996264009962644
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-03-31,1622.0,0.0,0.00996264009962644
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-03-31,1622.0,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-03-31,1622.0,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,1618.0,-0.002466091245376112,-0.002466091245376112
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,1618.0,0.0,-0.002466091245376112
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,1618.0,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,1677.5,0.03677379480840548,0.03677379480840548
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,1672.1,-0.0032190760059612744,0.033436341161928285
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,1672.1,0.0,-0.0032190760059612744
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,1672.1,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,1672.1,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-03-31,1672.1,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-06-30,1574.4,-0.05842951976556421,-0.05842951976556421
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-06-30,1574.4,0.0,-0.05842951976556421
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-06-30,1574.4,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-06-30,1574.4,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,1592.3,0.011369410569105565,0.011369410569105565
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,1592.3,0.0,0.011369410569105565
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,1592.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,1592.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-06-30,2017-06-30,1592.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-09-30,1624.3,0.02009671544306979,0.02009671544306979
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-09-30,1624.3,0.0,0.02009671544306979
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,652.3,-0.598411623468571,-0.598411623468571
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,652.3,0.0,-0.598411623468571
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,652.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,652.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-03-31,652.3,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,697.6,0.06944657366242546,0.06944657366242546
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,697.6,0.0,0.06944657366242546
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,697.6,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,697.6,0.0,0.0
+AVANOS MEDICAL INC,Avanos Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-06-30,697.6,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2011-12-31,2011-12-31,7829.329895,,
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-03-31,2011-12-31,7828.904,-5.439737572832115e-05,
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2011-12-31,7828.904,0.0,-5.439737572832115e-05
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2011-12-31,7828.904,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2012-12-31,2012-12-31,7708.382,-0.015394492000412985,-0.015394492000412985
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-03-31,2012-12-31,7708.382,0.0,-0.015394492000412985
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2012-12-31,7708.382,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2012-12-31,7708.382,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2013-12-31,2013-12-31,8054.0,0.04483664665295528,0.04483664665295528
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-03-31,2013-12-31,8054.0,0.0,0.04483664665295528
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2013-12-31,8054.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2013-12-31,8054.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2013-12-31,8054.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,8446.0,0.0486714675937423,0.0486714675937423
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,8446.0,0.0,0.0486714675937423
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,8446.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,8446.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,10282.0,0.21738100876154398,0.21738100876154398
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,10282.0,0.0,0.21738100876154398
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,10282.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2016-12-31,2016-12-31,12483.0,0.21406341178758992,0.21406341178758992
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2016-12-31,12483.0,0.0,0.21406341178758992
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2016-12-31,12483.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2016-12-31,12483.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2016-12-31,12483.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,12093.0,-0.031242489786109107,-0.031242489786109107
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,12093.0,0.0,-0.031242489786109107
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,12093.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,12093.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,15983.0,0.3216736955263375,0.3216736955263375
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,15983.0,0.0,0.3216736955263375
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,15983.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,15983.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-03-31,2020-03-31,17289.0,0.08171181880748302,0.08171181880748302
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-03-31,17289.0,0.0,0.08171181880748302
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-03-31,17289.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2020-12-31,2020-12-31,17118.0,-0.009890681936491452,-0.009890681936491452
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-03-31,2020-12-31,17118.0,0.0,-0.009890681936491452
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-06-30,2020-12-31,17118.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2020-12-31,17118.0,0.0,0.0
+BECTON DICKINSON & CO,Becton Dickinson,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2020-12-31,17118.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,1913.4,,
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2010,2012-03-31,2011-12-31,1913.4,0.0,
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2011,2012-06-30,2012-06-30,2058.5,0.07583359464827,0.07583359464827
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2011,2012-09-30,2012-06-30,2058.5,0.0,0.07583359464827
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2011,2012-12-31,2012-06-30,2058.5,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2011,2013-03-31,2012-06-30,2058.5,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2012,2013-06-30,2013-06-30,2053.9,-0.0022346368715083775,-0.0022346368715083775
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2012,2013-09-30,2013-06-30,2053.9,0.0,-0.0022346368715083775
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2012,2013-12-31,2013-06-30,2053.9,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2012,2014-03-31,2013-06-30,2053.9,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,2118.0,0.031208919616339648,0.031208919616339648
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,2118.0,0.0,0.031208919616339648
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,2118.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,2160.6,0.020113314447592012,0.020113314447592012
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,2160.6,0.0,0.020113314447592012
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,2160.6,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,2160.6,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2014,2016-03-31,2015-03-31,2160.6,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2015,2016-06-30,2016-06-30,2005.4,-0.07183189854669991,-0.07183189854669991
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2015,2016-09-30,2016-06-30,2005.4,0.0,-0.07183189854669991
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2015,2016-12-31,2016-06-30,2005.4,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2015,2017-03-31,2016-06-30,2005.4,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,2054.0,0.02423456666999102,0.02423456666999102
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,2054.0,0.0,0.02423456666999102
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,2054.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,2054.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2017,2018-06-30,2018-06-30,2146.0,0.04479065238558899,0.04479065238558899
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2017,2018-09-30,2018-06-30,2146.0,0.0,0.04479065238558899
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2017,2018-12-31,2018-06-30,2146.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2017,2019-03-31,2018-06-30,2146.0,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2018,2019-06-30,2019-06-30,2274.2,0.05973904939422181,0.05973904939422181
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2018,2019-09-30,2019-06-30,2274.2,0.0,0.05973904939422181
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2018,2019-12-31,2019-06-30,2274.2,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2018,2020-03-31,2019-06-30,2274.2,0.0,0.0
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,2297.899026,0.010420818749450556,0.010420818749450556
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,2297.899026,0.0,0.010420818749450556
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,2297.9,4.238654480737125e-07,4.238654480737125e-07
+BIO-RAD LABORATORIES INC,Bio-Rad Laboratories,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,2297.9,0.0,4.238654480737125e-07
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-03-31,2011-03-31,298.500003,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-03-31,298.500003,0.0,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-03-31,298.500003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-03-31,298.500003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2012-03-31,2011-03-31,298.500003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-06-30,354.847003,0.18876716728207188,0.18876716728207188
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-06-30,354.847003,0.0,0.18876716728207188
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-06-30,354.847003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-03-31,2012-06-30,354.847003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-06-30,414.300003,0.16754544774892755,0.16754544774892755
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-06-30,414.300003,0.0,0.16754544774892755
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-06-30,414.300003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2014-03-31,2013-06-30,414.300003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-06-30,454.800003,0.09775524911111333,0.09775524911111333
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-06-30,454.800003,0.0,0.09775524911111333
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-06-30,454.700003,-0.0002198768675030216,-0.0002198768675030216
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-03-31,2014-06-30,454.800003,0.00021992522397229486,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-06-30,632.800003,0.39138082415535935,0.39168682389474263
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-06-30,632.800003,0.0,0.39138082415535935
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-06-30,632.800003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2016-03-31,2015-06-30,632.800003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-06-30,786.610003,0.24306257786158714,0.24306257786158714
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-06-30,786.610003,0.0,0.24306257786158714
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-06-30,786.610003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,1016.149878,0.29180899572160657,0.29180899572160657
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,1016.440003,0.0002855139839914589,0.29217782525453084
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,1016.440003,0.0,0.0002855139839914589
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,1017.028003,0.0005784896287674979,0.0005784896287674979
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2018-03-31,2017-03-31,1017.028003,0.0,0.0005784896287674979
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-06-30,1180.400003,0.16063667816234162,0.16063667816234162
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-06-30,1180.400003,0.0,0.16063667816234162
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-06-30,1180.400002,-8.471703338841508e-10,-8.471703338841508e-10
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,1333.680331,0.12985456518154082,0.1298545642243616
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,1334.51328,0.0006245492121603746,0.13056021496008086
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,1334.51328,0.0,0.0006245492121603746
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,1334.51328,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2020-03-31,2019-03-31,1334.51328,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-06-30,1563.200003,0.17136339250217136,0.17136339250217136
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-06-30,1563.200003,0.0,0.17136339250217136
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-06-30,1563.200003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2021-03-31,2020-06-30,1563.200003,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-06-30,1675.8,0.07203172772767719,0.07203172772767719
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-06-30,1675.8,0.0,0.07203172772767719
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-06-30,1675.8,0.0,0.0
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,2732.2,,
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2011-12-31,2732.2,0.0,
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-06-30,2011-12-31,2732.2,0.0,0.0
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-09-30,2011-12-31,2732.2,0.0,0.0
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-12-31,2838.1,0.03875997364761008,0.03875997364761008
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-12-31,2838.1,0.0,0.03875997364761008
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-06-30,2012-12-31,2838.1,0.0,0.0
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-09-30,3052.9,0.07568443677107939,0.07568443677107939
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-09-30,3052.9,0.0,0.07568443677107939
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-09-30,3052.9,0.0,0.0
+BIOMET INC,Biomet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-06-30,2013-09-30,3052.9,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,7806.0,,
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-03-31,2012-03-31,7622.0,-0.023571611580835206,
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-03-31,7622.0,0.0,-0.023571611580835206
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-03-31,7622.321327,4.215783258976202e-05,4.215783258976202e-05
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-03-31,7622.321327,0.0,4.215783258976202e-05
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-03-31,2013-03-31,7249.0,-0.048977379853773706,-0.048977379853773706
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-03-31,7249.0,0.0,-0.048977379853773706
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-03-31,7249.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-03-31,7249.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,7143.0,-0.014622706580217915,-0.014622706580217915
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,7143.0,0.0,-0.014622706580217915
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,7143.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,7143.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,7380.0,0.033179336413271754,0.033179336413271754
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,7380.0,0.0,0.033179336413271754
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,7380.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,7380.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,7477.0,0.013143631436314474,0.013143631436314474
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,7477.0,0.0,0.013143631436314474
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,7477.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,7477.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,8386.0,0.12157282332486297,0.12157282332486297
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,8386.0,0.0,0.12157282332486297
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,8386.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,8386.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,9048.0,0.07894109229668489,0.07894109229668489
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,9048.0,0.0,0.07894109229668489
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,9048.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,9048.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,9823.0,0.08565428824049515,0.08565428824049515
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,9823.0,0.0,0.08565428824049515
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,9823.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,9823.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-03-31,2020-03-31,10654.0,0.08459737351114738,0.08459737351114738
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-03-31,10654.0,0.0,0.08459737351114738
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-03-31,10654.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-03-31,10654.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-03-31,10654.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-06-30,2021-06-30,9694.0,-0.09010700206495215,-0.09010700206495215
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-06-30,9694.0,0.0,-0.09010700206495215
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-06-30,9694.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-06-30,9694.0,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2019,2020-03-31,2020-03-31,51.76374672,,
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-03-31,51.76374672,0.0,
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-03-31,51.76374672,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-03-31,51.76374672,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2019,2021-03-31,2020-03-31,51.76374672,0.0,0.0
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-06-30,143.7080675,1.7762300182277069,1.7762300182277069
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-06-30,143.5428105,-0.001149949358271063,1.773037494299833
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-06-30,143.5428105,0.0,-0.001149949358271063
+BOSTON SCIENTIFIC CORP,Boston Scientific,33911,Medical Equipment and Supplies Manufacturing,Rx Sales from Products module,2020,2022-03-31,2021-06-30,143.5428105,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-03-31,2011-03-31,13569.59685,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-03-31,13573.88961,0.00031635132918483855,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-03-31,13570.5,-0.00024971545352059366,6.655687784862252e-05
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-03-31,13570.5,0.0,-0.00024971545352059366
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-03-31,2012-03-31,15377.0015,0.13311974503518664,0.13311974503518664
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-03-31,15336.91667,-0.002606804063848167,0.13016592387900228
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-03-31,15306.0,-0.002015833473260953,-0.004617382654219071
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-03-31,15280.09497,-0.0016924754998040026,-0.0037048972242997857
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-03-31,2013-03-31,11277.34962,-0.26195814606249135,-0.26320726381811044
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-03-31,11228.73303,-0.004310994306125027,-0.26513984029249793
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-03-31,11538.0709,0.027548777691440263,0.023119020761546594
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-03-31,11538.0709,0.0,0.027548777691440263
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-03-31,2014-03-31,10249.72833,-0.11166013635780314,-0.11166013635780314
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-03-31,10249.72833,0.0,-0.11166013635780314
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-03-31,10249.72833,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-03-31,10244.45333,-0.0005146477867672417,-0.0005146477867672417
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-03-31,2015-03-31,9977.581112,-0.026050410832414883,-0.026551651832902756
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-03-31,10013.21904,0.003571800379266188,-0.022571657320439975
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-03-31,10086.43917,0.007312346779542622,0.010910265401809394
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-03-31,10086.70667,2.6520756779557786e-05,0.00733906146529284
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-03-31,2016-03-31,12655.40555,0.2546618003317034,0.2546950749121506
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-03-31,12639.2027,-0.0012803106100380823,0.25305544351672915
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-03-31,12646.7027,0.0005933918600735666,-0.0006876784758588217
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-03-31,12646.7027,0.0,0.0005933918600735666
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,16621.78782,0.3143179067536712,0.3143179067536712
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,16746.64407,0.0075116017213121555,0.32419053940439335
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,16746.64407,0.0,0.0075116017213121555
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,16746.64407,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-03-31,2018-03-31,18430.47516,0.10054737432536864,0.10054737432536864
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-03-31,18430.47516,0.0,0.10054737432536864
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-03-31,18430.47516,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-03-31,18430.47516,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,21082.92727,0.1439166427871954,0.1439166427871954
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,21082.96033,1.5680934424278092e-06,0.14391843655538183
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,21082.96033,0.0,1.5680934424278092e-06
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,21082.627,-1.581039829245956e-05,-1.581039829245956e-05
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-03-31,2020-03-31,25049.47015,0.18815696687134875,0.18813818163646845
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-03-31,25163.53149,0.004553443219237119,0.19356717215553831
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-03-31,25161.65892,-7.441602545910087e-05,0.0044786883446314985
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-03-31,25167.9367,0.0002494978578302387,0.00017506326573224484
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-03-31,2021-03-31,41897.68677,0.6647247356593997,0.6651400809148238
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-03-31,41898.72729,2.48347839753027e-05,0.6647660787385883
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-03-31,41879.24257,-0.00046504324260587815,-0.0004402200078789109
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-03-31,41879.24256,-2.387818831550703e-10,-0.000465043481276628
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,2154.096,,
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2011-12-31,2154.096,0.0,
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-06-30,2537.718,0.1780895558972302,0.1780895558972302
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-06-30,2537.718,0.0,0.1780895558972302
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-06-30,2537.718,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-06-30,2537.718,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-06-30,2928.429,0.153961551283476,0.153961551283476
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-06-30,2928.429,0.0,0.153961551283476
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-06-30,2928.429,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-06-30,2928.429,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,2950.77,0.007629005176495562,0.007629005176495562
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,2950.77,0.0,0.007629005176495562
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,2950.77,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,2922.62,-0.009539882810249534,-0.009539882810249534
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,2922.62,0.0,-0.009539882810249534
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,2922.62,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,2922.62,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,2674.3,-0.08496486029658312,-0.08496486029658312
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,2674.3,0.0,-0.08496486029658312
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,2674.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,2674.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-03-31,2674.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,3745.3,0.4004786299218486,0.4004786299218486
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,3745.3,0.0,0.4004786299218486
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,3745.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,3745.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-06-30,3993.4,0.06624302459082054,0.06624302459082054
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-06-30,3993.4,0.0,0.06624302459082054
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-06-30,3993.4,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-03-31,2018-06-30,3993.4,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-06-30,3986.3,-0.0017779335904242188,-0.0017779335904242188
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-06-30,3986.3,0.0,-0.0017779335904242188
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-06-30,3986.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-06-30,3986.3,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,4029.2,0.010761859368336513,0.010761859368336513
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,4029.2,0.0,0.010761859368336513
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,4029.2,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,4029.2,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-06-30,2021-06-30,3342.0,-0.17055494887322542,-0.17055494887322542
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-06-30,3342.0,0.0,-0.17055494887322542
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-06-30,3342.0,0.0,0.0
+DENTSPLY SIRONA INC,Dentsply Sirona,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-06-30,3342.0,0.0,0.0
+ENVISTA HOLDINGS CORP,Envista,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-03-31,2020-03-31,2751.6,,
+ENVISTA HOLDINGS CORP,Envista,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-03-31,2751.6,0.0,
+ENVISTA HOLDINGS CORP,Envista,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-03-31,2751.6,0.0,0.0
+ENVISTA HOLDINGS CORP,Envista,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-03-31,2751.6,0.0,0.0
+ENVISTA HOLDINGS CORP,Envista,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-03-31,2751.6,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2012-03-31,676.694,,
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-06-30,727.844,0.07558807969333281,
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-06-30,727.844,0.0,0.07558807969333281
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-06-30,727.844,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-06-30,727.844,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-06-30,891.99,0.22552360121124848,0.22552360121124848
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-06-30,891.99,0.0,0.22552360121124848
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-06-30,891.99,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-06-30,891.99,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,938.509,0.05215192995437179,0.05215192995437179
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,938.509,0.0,0.05215192995437179
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,938.509,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-06-30,938.509,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-06-30,910.373,-0.02997946743185198,-0.02997946743185198
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-06-30,910.373,0.0,-0.02997946743185198
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-06-30,910.373,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-06-30,910.373,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-06-30,2015-06-30,910.373,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-09-30,908.832,-0.0016927127671845232,-0.0016927127671845232
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-09-30,908.832,0.0,-0.0016927127671845232
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-09-30,908.832,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-06-30,2016-09-30,908.832,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-09-30,886.116,-0.024994718495827573,-0.024994718495827573
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-09-30,886.116,0.0,-0.024994718495827573
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-09-30,886.116,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-06-30,2017-09-30,886.116,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-09-30,903.923,0.020095563109118864,0.020095563109118864
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-09-30,903.923,0.0,0.020095563109118864
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-03-31,2018-09-30,903.923,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-06-30,967.579,0.07042192753143794,0.07042192753143794
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-06-30,967.579,0.0,0.07042192753143794
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-06-30,967.579,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-06-30,967.579,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-06-30,2019-06-30,967.579,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-09-30,988.479,0.021600303437755652,0.021600303437755652
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-09-30,988.479,0.0,0.021600303437755652
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-09-30,988.479,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-09-30,988.479,0.0,0.0
+HAEMONETICS CORP,Haemonetics,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-09-30,2020-09-30,988.479,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,5.117636915,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2011-12-31,5.117636915,0.0,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-06-30,5.576774242,0.08971666701368552,0.08971666701368552
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-06-30,5.576774242,0.0,0.08971666701368552
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-06-30,5.576774242,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-06-30,5.576774242,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2013-06-30,2012-06-30,5.576774242,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2011,2013-09-30,2012-06-30,5.576774242,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-12-31,6.157656647,0.1041610041563521,0.1041610041563521
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-12-31,6.157656647,0.0,0.1041610041563521
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2012,2014-06-30,2013-12-31,6.157656647,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-09-30,7.000382157,0.13685815210410834,0.13685815210410834
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-09-30,7.000382157,0.0,0.13685815210410834
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-09-30,7.000382157,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2015-06-30,2014-09-30,7.000382157,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2013,2015-09-30,2014-09-30,7.000382157,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-12-31,8.999991487,0.2856428813676266,0.2856428813676266
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-12-31,8.999991487,0.0,0.2856428813676266
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-06-30,8.999772274,-2.4357023039156545e-05,-2.4357023039156545e-05
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-06-30,8.999772274,0.0,-2.4357023039156545e-05
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-06-30,8.999772274,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-06-30,8.999772274,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,9.001528756,0.00019516960502152791,0.00019516960502152791
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,9.001528756,0.0,0.00019516960502152791
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,9.001528756,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,9.001528756,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-06-30,8.998955753,-0.00028584066881809367,-0.00028584066881809367
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-06-30,8.998955753,0.0,-0.00028584066881809367
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-06-30,8.998955753,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2017,2019-03-31,2018-06-30,8.998955753,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-06-30,10.00096622,0.11134741568942119,0.11134741568942119
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-06-30,10.00096622,0.0,0.11134741568942119
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-06-30,10.00096622,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-06-30,10.00096622,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,11.00029653,0.0999233762035443,0.0999233762035443
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,11.00029653,0.0,0.0999233762035443
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,11.00029653,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,11.00029653,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-06-30,11.00029653,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-09-30,5.45437345,-0.5041612346426447,-0.5041612346426447
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-09-30,7.0,0.283373803456747,-0.36365351780203325
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-09-30,7.0,0.0,0.283373803456747
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-06-30,35.09862404,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-06-30,35.09862404,0.0,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-06-30,35.09862404,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2012-03-31,2011-06-30,35.09862404,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-06-30,32.71309189,-0.0679665432833303,-0.0679665432833303
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-06-30,32.71309189,0.0,-0.0679665432833303
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-06-30,32.71309189,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-03-31,2012-06-30,32.71309189,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-06-30,2012-06-30,32.71309189,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-09-30,2012-06-30,32.71309189,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-12-31,29.13650692,-0.1093319146360886,-0.1093319146360886
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2014-03-31,2013-12-31,29.13650692,0.0,-0.1093319146360886
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2014-06-30,2013-12-31,29.13650692,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-09-30,25.65853994,-0.11936801448263645,-0.11936801448263645
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-09-30,75.72398373,1.9512195123757303,1.5989382988810248
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-03-31,2014-09-30,75.72398373,0.0,1.9512195123757303
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-06-30,2014-09-30,75.72398373,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-09-30,2014-09-30,75.72398373,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-12-31,313.6268384,3.1417107625803453,3.1417107625803453
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2016-03-31,2015-12-31,272.4468438,-0.13130252120667996,2.597893697344705
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-06-30,339.8601825,0.2474366660290157,0.0836450867337506
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-06-30,18.94903895,-0.9442446043234265,-0.9304486751040865
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-06-30,18.94903895,0.0,-0.9442446043234265
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2017-03-31,2016-06-30,18.94903895,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-06-30,43.24675322,1.2822663109254946,1.2822663109254946
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-06-30,43.37318754,0.002923556350156842,1.2889386450915499
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-06-30,44.28329744,0.020983237608733774,0.023968139636448615
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2018-03-31,2017-06-30,44.28329744,0.0,0.020983237608733774
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-06-30,39.83332918,-0.10048863831852894,-0.10048863831852894
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-06-30,39.83332918,0.0,-0.10048863831852894
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-06-30,39.83332918,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2019-03-31,2018-06-30,39.83332918,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-06-30,39.62646302,-0.00519329326115836,-0.00519329326115836
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-06-30,39.62646302,0.0,-0.00519329326115836
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-06-30,39.62646302,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2020-03-31,2019-06-30,39.62646302,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-06-30,34.28257993,-0.13485642378182672,-0.13485642378182672
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-06-30,34.28257993,0.0,-0.13485642378182672
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-06-30,141.7749014,3.1354793510139425,3.1354793510139425
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2021-03-31,2020-06-30,141.7749014,0.0,3.1354793510139425
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2021-06-30,2020-06-30,141.7749014,0.0,0.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-09-30,112.065537,-0.20955305986197637,-0.20955305986197637
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-09-30,112.065537,0.0,-0.20955305986197637
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2022-03-31,2021-09-30,112.065537,0.0,0.0
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,Rx Sales from Products module,2010,2011-06-30,2011-06-30,47.159,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,Rx Sales from Products module,2010,2011-09-30,2011-06-30,47.159,0.0,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,Rx Sales from Products module,2010,2011-12-31,2011-06-30,47.159,0.0,0.0
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,Rx Sales from Products module,2010,2012-03-31,2011-06-30,47.159,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-12-31,302.195,,
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-12-31,302.195,0.0,
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-06-30,316.869,0.04855805026555715,0.04855805026555715
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-06-30,316.869,0.0,0.04855805026555715
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-06-30,316.869,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-06-30,316.869,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,313.716,-0.009950484269524718,-0.009950484269524718
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,313.716,0.0,-0.009950484269524718
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,313.716,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-06-30,313.716,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-06-30,309.26,-0.014203929668872517,-0.014203929668872517
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-06-30,309.26,0.0,-0.014203929668872517
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-06-30,309.26,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,341.668,0.10479208433033693,0.10479208433033693
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,341.668,0.0,0.10479208433033693
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,341.668,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,341.668,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-03-31,341.668,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,379.372,0.11035274008686802,0.11035274008686802
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,379.372,0.0,0.11035274008686802
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,379.372,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,379.372,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-06-30,1292.613,2.407244077053657,2.407244077053657
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-06-30,1292.613,0.0,2.407244077053657
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-06-30,1292.613,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,1400.04,0.08310840135446562,0.08310840135446562
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,1400.04,0.0,0.08310840135446562
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,1400.04,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,1400.04,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-03-31,1400.04,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,1266.208,-0.0955915545270134,-0.0955915545270134
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,1266.208,0.0,-0.0955915545270134
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,1266.208,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,1266.208,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-06-30,1266.208,0.0,0.0
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-09-30,1271.0,0.003784528292350098,0.003784528292350098
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-09-30,1271.0,0.0,0.003784528292350098
+"ICU MEDICAL, INC.",ICU Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-09-30,1271.0,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-09-30,211.369,,
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-09-30,211.369,0.0,
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-09-30,211.369,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-06-30,247.084,0.16896990570991965,0.16896990570991965
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-06-30,247.084,0.0,0.16896990570991965
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-06-30,247.084,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-06-30,247.084,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-06-30,288.72,0.16850949474672583,0.16850949474672583
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-06-30,288.72,0.0,0.16850949474672583
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-06-30,288.72,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-06-30,284.527,-0.014522720975339576,-0.014522720975339576
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-06-30,324.225,0.13952278694113396,0.12297381546134667
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-06-30,324.225,0.0,0.13952278694113396
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-06-30,324.225,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-06-30,324.225,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-06-30,366.989,0.13189605983499098,0.13189605983499098
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-06-30,366.989,0.0,0.13189605983499098
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-06-30,366.989,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-06-30,366.989,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-06-30,463.768,0.26371090141666365,0.26371090141666365
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-06-30,463.768,0.0,0.26371090141666365
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-06-30,463.768,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,563.823,0.21574364768591203,0.21574364768591203
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,563.823,0.0,0.21574364768591203
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,563.823,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,563.823,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-03-31,563.823,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,738.2,0.3092761380787943,0.3092761380787943
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,738.2,0.0,0.3092761380787943
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,738.2,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,738.2,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-06-30,738.2,0.0,0.0
+INSULET CORP,Insulet,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-09-30,2020-06-30,738.2,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2010,2011-12-31,2011-12-31,24601.0,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2011,2012-03-31,2012-03-31,25779.0,0.04788423234827843,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2011,2012-06-30,2012-03-31,25779.0,0.0,0.04788423234827843
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2011,2012-09-30,2012-03-31,25779.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2011,2012-12-31,2012-03-31,25779.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2012,2013-03-31,2013-03-31,27426.0,0.06388921214942389,0.06388921214942389
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2012,2013-06-30,2013-03-31,27426.0,0.0,0.06388921214942389
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2012,2013-09-30,2013-03-31,27426.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2012,2013-12-31,2013-03-31,27426.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,28490.0,0.03879530372639106,0.03879530372639106
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,28490.0,0.0,0.03879530372639106
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,28490.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,28490.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,27522.0,-0.03397683397683393,-0.03397683397683393
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,27522.0,0.0,-0.03397683397683393
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,27522.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,27522.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,25137.0,-0.08665794637017654,-0.08665794637017654
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,25137.0,0.0,-0.08665794637017654
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,25137.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,25137.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,25119.0,-0.0007160759040458764,-0.0007160759040458764
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,25119.0,0.0,-0.0007160759040458764
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,25119.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,25119.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,26592.0,0.05864086946136382,0.05864086946136382
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,26592.0,0.0,0.05864086946136382
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,26592.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,26592.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,26994.0,0.015117328519855588,0.015117328519855588
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,26994.0,0.0,0.015117328519855588
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,26994.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,26994.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2019,2020-03-31,2020-03-31,25963.0,-0.038193672668000334,-0.038193672668000334
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2019,2020-06-30,2020-03-31,25963.0,0.0,-0.038193672668000334
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2019,2020-09-30,2020-03-31,25963.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2019,2020-12-31,2020-03-31,25963.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2020,2021-03-31,2021-03-31,22959.0,-0.11570311597273042,-0.11570311597273042
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2020,2021-06-30,2021-03-31,22959.0,0.0,-0.11570311597273042
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2020,2021-09-30,2021-03-31,2174.0,-0.9053094646979398,-0.9053094646979398
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,MedTech & Healthcare Supply,2020,2021-12-31,2021-03-31,22959.0,9.560717571297149,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2010,2011-03-31,2011-03-31,18452.47269,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2010,2011-06-30,2011-03-31,18449.16111,-0.00017946537873980706,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2010,2011-09-30,2011-03-31,18661.48933,0.011508827893801143,0.011327297078904452
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2010,2011-12-31,2011-03-31,18696.84602,0.0018946338834362475,0.013425266792523649
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2011,2012-03-31,2012-03-31,20176.23629,0.07912512454868037,0.0811696715741177
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2011,2012-06-30,2012-03-31,20148.80682,-0.0013594938920097333,0.07765806053314228
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2011,2012-09-30,2012-03-31,20113.06533,-0.0017738762557653054,-0.003130958573840159
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2011,2012-12-31,2012-03-31,20102.79332,-0.0005107133016010179,-0.0022836836151670648
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2012,2013-03-31,2013-03-31,21996.90697,0.09422141589226651,0.0936625824602737
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2012,2013-06-30,2013-03-31,21885.52202,-0.005063664184783323,0.08868064609838999
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2012,2013-09-30,2013-03-31,21641.72431,-0.011139679911550848,-0.016146936498136144
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2012,2013-12-31,2013-03-31,21958.31035,0.01462850350855427,0.003325866750333084
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2013,2014-03-31,2014-03-31,24961.41881,0.13676409578572146,0.1533932533493214
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2013,2014-06-30,2014-03-31,25012.63573,0.0020518433022518323,0.13909655758189987
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2013,2014-09-30,2014-03-31,24930.17564,-0.003296737332687316,-0.0012516584188507762
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2013,2014-12-31,2014-03-31,24930.08897,-3.4765098029243546e-06,-0.0033002023813506476
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2014,2015-03-31,2015-03-31,29393.77962,0.1790483241103331,0.17904422513727614
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2014,2015-06-30,2015-03-31,29325.15295,-0.0023347344535884496,0.17629555936558683
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2014,2015-09-30,2015-03-31,29325.15295,0.0,-0.0023347344535884496
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2014,2015-12-31,2015-03-31,29325.15295,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2015,2016-03-31,2016-03-31,28090.93899,-0.04208721305237051,-0.04208721305237051
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2015,2016-06-30,2016-03-31,28002.01498,-0.003165576274671844,-0.04511955904393672
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2015,2016-09-30,2016-03-31,27829.97259,-0.006143928932359932,-0.009290056131370239
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2015,2016-12-31,2016-03-31,27829.97259,0.0,-0.006143928932359932
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2016,2017-03-31,2017-03-31,29918.65409,0.07505151121674158,0.07505151121674158
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2016,2017-06-30,2017-03-31,29830.89167,-0.0029333679160832293,0.07189798960560179
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2016,2017-09-30,2017-03-31,29999.0881,0.005638330622518728,0.0026884234082871217
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2016,2017-12-31,2017-03-31,29910.86829,-0.0029407497223225,0.0026809999809838114
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2017,2018-03-31,2018-03-31,32720.91803,0.0939474478893505,0.09073042223573458
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2017,2018-06-30,2018-03-31,32595.53725,-0.0038318234190447553,0.08975563443932377
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2017,2018-09-30,2018-03-31,32670.83698,0.002310123911211104,-0.0015305514947375753
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2017,2018-12-31,2018-03-31,32670.87327,1.1107765627293986e-06,0.0023112372538052206
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2018,2019-03-31,2019-03-31,37247.30128,0.14007669682347612,0.1400779631939506
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2018,2019-06-30,2019-03-31,37290.28437,0.001153992061784015,0.14139233628143555
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2018,2019-09-30,2019-03-31,37240.64773,-0.0013310877307209923,-0.00017863173361165607
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2018,2019-12-31,2019-03-31,37287.86983,0.0012680257427952757,-6.47498414343417e-05
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2019,2020-03-31,2020-03-31,38810.13887,0.040824778860798716,0.04214457147413331
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2019,2020-06-30,2020-03-31,39071.89998,0.006744657906966101,0.04784478593530861
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2019,2020-09-30,2020-03-31,39094.89754,0.000588595896584776,0.00733722368151879
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2019,2020-12-31,2020-03-31,39094.89754,0.0,0.000588595896584776
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2020,2021-03-31,2021-03-31,42358.94236,0.08349030245341837,0.08349030245341837
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2020,2021-06-30,2021-03-31,42063.29976,-0.0069794613257194715,0.07592812379065261
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2020,2021-09-30,2021-03-31,42195.32795,0.003138797734683507,-0.003862570708434543
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,Rx Sales from Products module,2020,2021-12-31,2021-03-31,42195.33664,2.0594697147657826e-07,0.0031390043280807856
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2013-06-30,292.28,,
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-06-30,292.28,0.0,
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-06-30,292.28,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,344.112,0.17733680032845234,0.17733680032845234
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,344.112,0.0,0.17733680032845234
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,344.112,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,344.112,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,355.834,0.03406449063095729,0.03406449063095729
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,355.834,0.0,0.03406449063095729
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,355.834,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,355.834,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,375.865,0.05629310296374146,0.05629310296374146
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,375.865,0.0,0.05629310296374146
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,375.865,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,375.865,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,381.892,0.016035012571002927,0.016035012571002927
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,381.892,0.0,0.016035012571002927
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,381.892,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,381.892,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-03-31,381.892,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-06-30,2017-03-31,381.892,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-09-30,500.97,0.3118106689849487,0.3118106689849487
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-09-30,500.97,0.0,0.3118106689849487
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,530.891,0.059726131305267716,0.059726131305267716
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,530.891,0.0,0.059726131305267716
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,530.891,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,530.891,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-03-31,530.891,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-06-30,495.175,-0.06727558010966461,-0.06727558010966461
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-06-30,495.175,0.0,-0.06727558010966461
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-06-30,495.175,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-06-30,495.175,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-06-30,2021-06-30,415.684,-0.16053112535972125,-0.16053112535972125
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-06-30,415.684,0.0,-0.16053112535972125
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-06-30,415.684,0.0,0.0
+NATUS MEDICAL INC,Natus Medical,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-06-30,415.684,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-12-31,1700.0,,
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-12-31,1700.0,0.0,
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2017-06-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2017-09-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2017-12-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2018-03-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2018-06-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2018-09-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2018-12-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2019-03-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2019-06-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2019-09-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2019-12-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2020-03-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2020-06-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2020-09-30,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2020-12-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2021-03-31,2016-12-31,1700.0,0.0,0.0
+ORTHO-CLINICAL DIAGNOSTICS INC,Ortho-Clinical Diagnostics,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2021-06-30,1801.5,0.059705882352941275,0.059705882352941275
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,267.2110139,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,268.4333959,0.004574594370789775,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,268.4333959,0.0,0.004574594370789775
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,179.0769231,-0.3328813559147765,-0.3328813559147765
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,1115.095738,5.226909189060106,3.154087215047597
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,1132.257443,0.015390342205755969,5.322743452363908
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,1132.257443,0.0,0.015390342205755969
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,1132.257443,0.0,0.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-03-31,2011-03-31,49905.57931,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-06-30,2011-03-31,49924.65334,0.0003822023562036758,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-09-30,2011-03-31,49839.0339,-0.0017149731499767062,-0.0013334262605516622
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2010,2011-12-31,2011-03-31,49890.85802,0.0010398299474259076,-0.0006769264829911137
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-03-31,2012-03-31,49333.87465,-0.011164036701407754,-0.010135815453678032
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-03-31,49288.95519,-0.000910519603795179,-0.012064391230928728
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-03-31,49288.95519,0.0,-0.000910519603795179
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-03-31,49248.53598,-0.0008200459888871858,-0.0008200459888871858
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-03-31,2013-03-31,42472.92696,-0.13757990740580794,-0.1382871315434756
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-03-31,42426.43579,-0.0010946071610222763,-0.13852391861497115
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-03-31,42413.75003,-0.0002990060268741601,-0.0013932858937583115
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-03-31,42418.26503,0.00010645132761921694,-0.00019258652884357463
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-03-31,2014-03-31,40304.38434,-0.04983420911970304,-0.04973306270980549
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-03-31,40149.4889,-0.003843141200057354,-0.0534858304175202
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-03-31,40189.26855,0.0009907884531004107,-0.0028561604868815316
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-03-31,40140.38355,-0.0012163694877697084,-0.00022678619951244094
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-03-31,2015-03-31,40082.90787,-0.001431866736609555,-0.0026464945453703592
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-03-31,40119.2412,0.0009064544448180722,-0.0005267102137592738
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-03-31,40123.2412,9.970278301274504e-05,0.0010062476038616985
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-03-31,40123.2412,0.0,9.970278301274504e-05
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-03-31,2016-03-31,38679.82507,-0.035974564537423204,-0.035974564537423204
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-03-31,38331.7314,-0.008999359985988775,-0.04465017646680047
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-03-31,38138.97076,-0.005028748583999487,-0.013982853051201838
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-03-31,38034.05103,-0.002750984830194536,-0.007765899403124665
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,38731.50915,0.018337728985267976,0.015536297340814853
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,38847.6263,0.002998002209268602,0.02139070774654739
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,38926.76236,0.002037088685647559,0.005041198091296328
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,38891.76236,-0.0008991243524523185,0.001136132737149964
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-03-31,2018-03-31,39448.32699,0.014310604514348846,0.013398613148879468
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-03-31,39371.46468,-0.0019484301582546326,0.012334291142675813
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-03-31,39346.75096,-0.0006277063909322367,-0.0025749135071242435
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-03-31,39438.19263,0.0023239954448326383,0.0016948302671071502
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,40054.01431,0.015614855522855686,0.017975139820795016
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,39975.72152,-0.0019546802323994195,0.013629653241034045
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,40016.7618,0.001026630125474215,-0.0009300568405373744
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,40094.39314,0.0019399705650344767,0.0029685923227333877
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-03-31,2020-03-31,39581.09245,-0.012802306003427466,-0.010887171535204132
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-03-31,39609.687,0.0007224295296073269,-0.012089125237723986
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-03-31,39471.29391,-0.003493920312977905,-0.0027740148945787357
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-03-31,39484.47504,0.00033394218162818845,-0.0031611448987214352
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-03-31,2021-03-31,35617.08833,-0.09794702110341136,-0.09764578756369435
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-03-31,35608.30752,-0.00024653362786541955,-0.09816940749682546
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-03-31,35369.56572,-0.006704665754358352,-0.00694954645665169
+PHYSIO-CONTROL INC,Physio-Control,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2010,2015-06-30,2015-06-30,425.0,,
+PHYSIO-CONTROL INC,Physio-Control,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2010,2015-09-30,2015-06-30,425.0,0.0,
+PHYSIO-CONTROL INC,Physio-Control,33451,Navigational Measuring Electromedical and Control Instrument,MedTech & Healthcare Supply,2010,2015-12-31,2015-06-30,425.0,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2012-03-31,1243.148,,
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-06-30,2012-03-31,1243.148,0.0,
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-09-30,2012-03-31,1243.148,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-12-31,1368.515,0.10084639962417996,0.10084639962417996
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-12-31,1368.515,0.0,0.10084639962417996
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-06-30,2012-12-31,1368.515,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-09-30,1514.457,0.10664260165215578,0.10664260165215578
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-09-30,1514.457,0.0,0.10664260165215578
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-09-30,1514.457,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-06-30,2013-09-30,1514.457,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-09-30,1554.973,0.026752822958987732,0.026752822958987732
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-09-30,1554.973,0.0,0.026752822958987732
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-09-30,1554.973,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-06-30,2014-09-30,1554.973,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-09-30,1678.912,0.07970492092145665,0.07970492092145665
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-09-30,1678.912,0.0,0.07970492092145665
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-09-30,1678.912,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-06-30,2015-09-30,1678.912,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-09-30,1838.713,0.09518128406968307,0.09518128406968307
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-09-30,1838.713,0.0,0.09518128406968307
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-09-30,1838.713,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-06-30,2016-09-30,1838.713,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-09-30,2066.737,0.12401282853822226,0.12401282853822226
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-09-30,2066.737,0.0,0.12401282853822226
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-09-30,2066.737,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-06-30,2017-09-30,2066.737,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-09-30,2017-09-30,2066.737,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-12-31,2340.196,0.13231436801102414,0.13231436801102414
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-03-31,2018-12-31,2340.196,0.0,0.13231436801102414
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-06-30,2018-12-31,2340.196,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-09-30,2606.572,0.11382636326188078,0.11382636326188078
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-09-30,2606.572,0.0,0.11382636326188078
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-09-30,2606.572,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-06-30,2019-09-30,2606.572,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-09-30,2957.013,0.13444516399316786,0.13444516399316786
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-09-30,2957.013,0.0,0.13444516399316786
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-09-30,2957.013,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-09-30,2957.013,0.0,0.0
+RESMED CORP,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-09-30,2020-09-30,2957.013,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-03-31,2012-03-31,1243.148,,
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-06-30,2012-03-31,1243.148,0.0,
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2010,2012-09-30,2012-03-31,1243.148,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-12-31,2012-12-31,1368.515,0.10084639962417996,0.10084639962417996
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-03-31,2012-12-31,1368.515,0.0,0.10084639962417996
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2013-06-30,2012-12-31,1368.515,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2013-09-30,1514.457,0.10664260165215578,0.10664260165215578
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2013-09-30,1514.457,0.0,0.10664260165215578
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-03-31,2013-09-30,1514.457,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2014-06-30,2013-09-30,1514.457,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-09-30,1554.973,0.026752822958987732,0.026752822958987732
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-09-30,1554.973,0.0,0.026752822958987732
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-03-31,2014-09-30,1554.973,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2015-06-30,2014-09-30,1554.973,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-09-30,1678.912,0.07970492092145665,0.07970492092145665
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-09-30,1678.912,0.0,0.07970492092145665
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-03-31,2015-09-30,1678.912,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2016-06-30,2015-09-30,1678.912,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-09-30,1838.713,0.09518128406968307,0.09518128406968307
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-09-30,1838.713,0.0,0.09518128406968307
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-03-31,2016-09-30,1838.713,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2017-06-30,2016-09-30,1838.713,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-09-30,2066.737,0.12401282853822226,0.12401282853822226
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-09-30,2066.737,0.0,0.12401282853822226
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-03-31,2017-09-30,2066.737,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-06-30,2017-09-30,2066.737,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2018-09-30,2017-09-30,2066.737,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-12-31,2340.196,0.13231436801102414,0.13231436801102414
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-03-31,2018-12-31,2340.196,0.0,0.13231436801102414
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2019-06-30,2018-12-31,2340.196,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-09-30,2606.572,0.11382636326188078,0.11382636326188078
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-09-30,2606.572,0.0,0.11382636326188078
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-03-31,2019-09-30,2606.572,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2020-06-30,2019-09-30,2606.572,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-09-30,2957.013,0.13444516399316786,0.13444516399316786
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-09-30,2957.013,0.0,0.13444516399316786
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-03-31,2020-09-30,2957.013,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-06-30,2020-09-30,2957.013,0.0,0.0
+RESMED INC,ResMed,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2021-09-30,2020-09-30,2957.013,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-06-30,2012-06-30,43.241,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-09-30,2012-06-30,43.241,0.0,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2012-12-31,2012-06-30,43.241,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2011,2013-03-31,2012-06-30,43.241,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-06-30,2013-06-30,138.2,2.1960407946162204,2.1960407946162204
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-09-30,2013-06-30,138.2,0.0,2.1960407946162204
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2013-12-31,2013-06-30,138.2,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2012,2014-03-31,2013-06-30,138.2,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-06-30,2014-06-30,144.665,0.04678002894356004,0.04678002894356004
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-09-30,2014-06-30,144.665,0.0,0.04678002894356004
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2014-12-31,2014-06-30,144.665,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2013,2015-03-31,2014-06-30,144.665,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-06-30,2015-06-30,178.198,0.2317976013548544,0.2317976013548544
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-09-30,2015-06-30,178.198,0.0,0.2317976013548544
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2015-12-31,2015-06-30,178.198,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2014,2016-03-31,2015-06-30,178.198,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-06-30,2016-06-30,226.1,0.26881334246175603,0.26881334246175603
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-09-30,2016-06-30,226.052,-0.00021229544449363758,0.26854397916923856
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2015,2016-12-31,2016-06-30,226.052,0.0,-0.00021229544449363758
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-03-31,2017-03-31,265.766,0.17568524056411805,0.17568524056411805
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-06-30,2017-03-31,265.766,0.0,0.17568524056411805
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-09-30,2017-03-31,265.766,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2016,2017-12-31,2017-03-31,265.766,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-03-31,2018-03-31,307.562,0.15726616647727698,0.15726616647727698
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-06-30,2018-03-31,307.562,0.0,0.15726616647727698
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-09-30,2018-03-31,307.562,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2017,2018-12-31,2018-03-31,307.562,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-03-31,2019-03-31,476.903,0.5505914254686859,0.5505914254686859
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-06-30,2019-03-31,476.903,0.0,0.5505914254686859
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-09-30,2019-03-31,476.903,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2018,2019-12-31,2019-03-31,476.903,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-03-31,2020-03-31,627.977001,0.3167814020880555,0.3167814020880555
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-06-30,2020-03-31,627.977001,0.0,0.3167814020880555
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-09-30,2020-03-31,627.977001,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2019,2020-12-31,2020-03-31,627.977001,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-03-31,2021-03-31,1000.598,0.5933672704679196,0.5933672704679196
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-06-30,2021-03-31,1000.598,0.0,0.5933672704679196
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-09-30,2021-03-31,1000.598,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2021-12-31,2021-03-31,1000.598,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,Rx Sales from Products module,2020,2022-03-31,2021-03-31,1000.598,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-03-31,2012-03-31,1330.835,,
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-06-30,2012-03-31,1330.835,0.0,
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2011,2012-09-30,2012-03-31,1330.835,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2012-12-31,2012-12-31,1445.1,0.08585962948073944,0.08585962948073944
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-03-31,2012-12-31,1445.136,2.49117708117641e-05,0.08588668016696288
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-06-30,2012-12-31,1445.136,0.0,2.49117708117641e-05
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-09-30,2012-12-31,1445.136,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2012,2013-12-31,2012-12-31,1445.136,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-03-31,2014-03-31,1587.725,0.09866822222960336,0.09866822222960336
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-06-30,2014-03-31,1587.725,0.0,0.09866822222960336
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-09-30,2014-03-31,1587.725,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2013,2014-12-31,2014-03-31,1587.725,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-03-31,2015-03-31,1717.776,0.08191028043269477,0.08191028043269477
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-06-30,2015-03-31,1717.776,0.0,0.08191028043269477
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-09-30,2015-03-31,1717.776,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2014,2015-12-31,2015-03-31,1717.776,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-03-31,2016-03-31,1797.1,0.04617831428544816,0.04617831428544816
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-06-30,2016-03-31,1797.1,0.0,0.04617831428544816
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-09-30,2016-03-31,1797.1,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2015,2016-12-31,2016-03-31,1797.1,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-03-31,2017-03-31,1966.8,0.0944299148628347,0.0944299148628347
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-06-30,2017-03-31,1966.8,0.0,0.0944299148628347
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-09-30,2017-03-31,1966.8,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2016,2017-12-31,2017-03-31,1966.8,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-03-31,2018-03-31,2139.0,0.08755338621110442,0.08755338621110442
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-06-30,2018-03-31,2139.0,0.0,0.08755338621110442
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-09-30,2018-03-31,2139.0,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2017,2018-12-31,2018-03-31,2139.0,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-03-31,2019-03-31,2532.8,0.18410472183263216,0.18410472183263216
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-06-30,2019-03-31,2532.8,0.0,0.18410472183263216
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-09-30,2019-03-31,2532.8,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2018,2019-12-31,2019-03-31,2532.8,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-03-31,2020-03-31,2653.4,0.047615287428932396,0.047615287428932396
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-06-30,2020-03-31,2653.4,0.0,0.047615287428932396
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-09-30,2020-03-31,2653.4,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2019,2020-12-31,2020-03-31,2653.4,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-03-31,2021-03-31,2430.9,-0.0838546770181654,-0.0838546770181654
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-06-30,2021-03-31,2430.9,0.0,-0.0838546770181654
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-09-30,2021-03-31,2430.9,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2021-12-31,2021-03-31,2430.9,0.0,0.0
+THE COOPER COMPANIES INC,The Cooper Companies,33911,Medical Equipment and Supplies Manufacturing,MedTech & Healthcare Supply,2020,2022-03-31,2021-03-31,2430.9,0.0,0.0

@@ -1,0 +1,159 @@
+client_name,company_name,year,industry_code,industry_name,euromonitor_category,country,data_type,forecast_flag,yoy_growth_L1,yoy_growth_L2
+BROWN-FORMAN CORP,Brown-Forman Corp,2015,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,,
+BROWN-FORMAN CORP,Brown-Forman Corp,2016,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.014380990042058395,
+BROWN-FORMAN CORP,Brown-Forman Corp,2017,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.03248953241481334,0.04733775409900032
+BROWN-FORMAN CORP,Brown-Forman Corp,2018,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.045439500282856926,0.07940534081502326
+BROWN-FORMAN CORP,Brown-Forman Corp,2019,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.04804216349429247,0.09566467567883752
+BROWN-FORMAN CORP,Brown-Forman Corp,2020,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.026759661164067916,0.07608741667505625
+BROWN-FORMAN CORP,Brown-Forman Corp,2021,31214,Distilleries,Alcoholic Drinks,USA,Total Value RSP,False,0.013995924313125574,0.012389210658644956
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2015,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,,
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2016,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.029296199111354726,
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2017,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.013644741663797477,0.04254120170654663
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2018,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.05340271402014796,0.06631878944699487
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2019,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.03508823967989605,0.08661714647094809
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2020,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.11169883224442745,0.14286775652656647
+CHURCH & DWIGHT CO INC,Church & Dwight Co Inc,2021,32561,Soap and Cleaning Compound Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.07883465119936683,0.18172774496442823
+DECKERS OUTDOOR CORP,Deckers Outdoor Corp,2018,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,,
+DECKERS OUTDOOR CORP,Deckers Outdoor Corp,2019,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.032174462710768736,
+DECKERS OUTDOOR CORP,Deckers Outdoor Corp,2020,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.479422839561376,0.5270224745463032
+DECKERS OUTDOOR CORP,Deckers Outdoor Corp,2021,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.01634405940557082,0.5036026143371253
+GOYA FOODS INC,Goya Foods Inc,2018,42441,General Line Grocery Merchant Wholesalers,Staple Foods,USA,Retail Value RSP,False,,
+GOYA FOODS INC,Goya Foods Inc,2019,42441,General Line Grocery Merchant Wholesalers,Staple Foods,USA,Retail Value RSP,False,0.015080939150564854,
+GOYA FOODS INC,Goya Foods Inc,2020,42441,General Line Grocery Merchant Wholesalers,Staple Foods,USA,Retail Value RSP,False,0.2634646651024295,0.2825188988357279
+GOYA FOODS INC,Goya Foods Inc,2021,42441,General Line Grocery Merchant Wholesalers,Staple Foods,USA,Retail Value RSP,False,0.21777224868804512,0.011682876154814448
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2015,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,,
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2016,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.021568517540218046,
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2017,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.1655735021138266,0.14757615955814585
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2018,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.0794338601931095,0.0992917843393103
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2019,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.040894826797580386,0.12357712094515039
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2020,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.2200173735844413,0.26990977276721617
+HERBALIFE NUTRITION LTD,Herbalife Nutrition Ltd,2021,45439,Other Direct Selling Establishments - DO NOT USE,Consumer Health,USA,Retail Value RSP,False,0.14797129198119463,0.40054492059323477
+KELLOGG CO,Kellogg Co,2018,31123,Breakfast Cereal Manufacturing,Consumer Health,USA,Retail Value RSP,False,,
+KELLOGG CO,Kellogg Co,2019,31123,Breakfast Cereal Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.03324192452351937,
+KELLOGG CO,Kellogg Co,2020,31123,Breakfast Cereal Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.008366412908464294,0.024597395948619427
+KELLOGG CO,Kellogg Co,2021,31123,Breakfast Cereal Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.08270969608311862,0.07365129970568929
+LAND O'LAKES INC,Land O' Lakes Inc,2015,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,,
+LAND O'LAKES INC,Land O' Lakes Inc,2016,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.014392458369862027,
+LAND O'LAKES INC,Land O' Lakes Inc,2017,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.0026843825994209425,0.017115475834094118
+LAND O'LAKES INC,Land O' Lakes Inc,2018,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.00394050989175565,0.0012667051285210063
+LAND O'LAKES INC,Land O' Lakes Inc,2019,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.015827134160033784,0.01970527707307368
+LAND O'LAKES INC,Land O' Lakes Inc,2020,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.10584069404029406,0.08833840501609358
+LAND O'LAKES INC,Land O' Lakes Inc,2021,42491,Farm Supplies Merchant Wholesalers,Dairy Products and Alternatives,USA,Retail Value RSP,False,0.04820575769252555,0.05253280549685346
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2015,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,,
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2016,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.0500149483660679,
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2017,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.011075017393558317,0.061643882182718324
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2018,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.009601506922277903,0.020782861172004896
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2019,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.05756949071076822,0.0677237514966178
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2020,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.5344429057485673,0.5076410209357273
+MARRIOTT INTERNATIONAL INC,Marriott International Inc,2021,56111,Office Administrative Services,Luxury Goods,USA,Retail Value RSP,False,0.438661312106442,0.3302210199237714
+MARS INC,Mars Inc,2015,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,,
+MARS INC,Mars Inc,2016,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.007502056363146825,
+MARS INC,Mars Inc,2017,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.001729081803293342,0.0057859462289981956
+MARS INC,Mars Inc,2018,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.0031288105695885804,0.004863302342303699
+MARS INC,Mars Inc,2019,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.01437750181626496,0.011293675726323449
+MARS INC,Mars Inc,2020,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.019928446268217992,0.03401942681206638
+MARS INC,Mars Inc,2021,31135,Chocolate and Confectionery Manufacturing,Pet Care,USA,Retail Value RSP,False,0.0037458399325576153,0.023599637430950282
+MARY KAY INC,Mary Kay Inc,2015,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,,
+MARY KAY INC,Mary Kay Inc,2016,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.023492973084332847,
+MARY KAY INC,Mary Kay Inc,2017,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.007612381371301158,0.030926516984970287
+MARY KAY INC,Mary Kay Inc,2018,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.03342997610309284,0.04078787574706377
+MARY KAY INC,Mary Kay Inc,2019,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.033884665689420834,0.06618187822825516
+MARY KAY INC,Mary Kay Inc,2020,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.019520548947790983,0.05274376736204189
+MARY KAY INC,Mary Kay Inc,2021,44612,Cosmetics Beauty Supplies and Perfume Stores - DO NOT USE,Beauty and Personal Care,USA,Retail Value RSP,False,0.09263327716583292,0.11034557369251397
+MCCORMICK & CO INC,McCormick & Co Inc,2015,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,,
+MCCORMICK & CO INC,McCormick & Co Inc,2016,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.018424444016130304,
+MCCORMICK & CO INC,McCormick & Co Inc,2017,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.015990536774571296,0.0021392904919679268
+MCCORMICK & CO INC,McCormick & Co Inc,2018,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.023225766767375977,0.03884491106433585
+MCCORMICK & CO INC,McCormick & Co Inc,2019,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.0061466320074734515,0.02922963853343885
+MCCORMICK & CO INC,McCormick & Co Inc,2020,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.07701588646314295,0.0703958661428512
+MCCORMICK & CO INC,McCormick & Co Inc,2021,31194,Seasoning and Dressing Manufacturing,Cooking Ingredients and Meals,USA,Retail Value RSP,False,0.07319558524167913,0.0018169216611126915
+NEWELL BRANDS INC,Newell Brands Inc,2015,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,,
+NEWELL BRANDS INC,Newell Brands Inc,2016,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.00823671090776612,
+NEWELL BRANDS INC,Newell Brands Inc,2017,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.0037734709637672337,0.011979100882085869
+NEWELL BRANDS INC,Newell Brands Inc,2018,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.028219968688173447,0.03188695241949746
+NEWELL BRANDS INC,Newell Brands Inc,2019,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.045189451764240274,0.07213417553859114
+NEWELL BRANDS INC,Newell Brands Inc,2020,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.02718180565120687,0.07114292652010701
+NEWELL BRANDS INC,Newell Brands Inc,2021,32619,Other Plastics Product Manufacturing,Consumer Appliances,USA,Retail Volume,False,0.04321880556127122,0.06922584603923432
+NIKE INC,Nike Inc,2015,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,,
+NIKE INC,Nike Inc,2016,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.02731094218128982,
+NIKE INC,Nike Inc,2017,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.048038463939884646,0.02203949746973488
+NIKE INC,Nike Inc,2018,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.0277335597136803,0.07443974604533465
+NIKE INC,Nike Inc,2019,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.041223104614505734,0.012346281467415787
+NIKE INC,Nike Inc,2020,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.099868110051746,0.14520808821456765
+NIKE INC,Nike Inc,2021,31621,Footwear Manufacturing,Apparel and Footwear,USA,Retail Value RSP,False,0.10015148546797414,0.2100215350922816
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2015,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,,
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2016,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.0100368017525172,
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2017,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.004076607316100933,0.014072492969163575
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2018,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.0010630760527851058,0.0051353496252716235
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2019,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.018844635193979387,0.019887677966366257
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2020,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.05157061456765899,0.06944342034338158
+SC JOHNSON & SON INC,SC Johnson & Son Inc,2021,32561,Soap and Cleaning Compound Manufacturing,Home Care,USA,Retail Value RSP,False,0.014865183459128462,0.06566919138013927
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2015,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,,
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2016,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.0991366754101386,
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2017,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.02141033115422908,0.12266955561442794
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2018,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.05339421319813531,0.07594773213865613
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2019,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.1286374762682414,0.18890018629951322
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2020,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.05330888149334245,0.06847107479691261
+SIMPLY GOOD FOODS USA INC,"Simply Good Foods Co, The",2021,31199,All Other Food Manufacturing,Consumer Health,USA,Retail Value RSP,False,0.0705882789280452,0.01351641523850855
+SLEEP NUMBER CORP,Sleep Number Corp,2015,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,,
+SLEEP NUMBER CORP,Sleep Number Corp,2016,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.048840239625223436,
+SLEEP NUMBER CORP,Sleep Number Corp,2017,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.0143620495924206,0.06390373516124725
+SLEEP NUMBER CORP,Sleep Number Corp,2018,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.002180738518422376,0.012149991199248644
+SLEEP NUMBER CORP,Sleep Number Corp,2019,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.01354134795806472,0.015692556337403518
+SLEEP NUMBER CORP,Sleep Number Corp,2020,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.05128114537873585,0.037045381587409665
+SLEEP NUMBER CORP,Sleep Number Corp,2021,33791,Mattress Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.003427852225801886,0.047677508964605986
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2015,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,,
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2016,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.017493966446423426,
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2017,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.014275359281731403,0.03151959307186958
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2018,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.011555437354054288,0.002884879947563812
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2019,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.008965082864120344,0.020624115671584953
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2020,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.006659016925826267,0.015683798428480333
+STANLEY BLACK & DECKER INC,Stanley Black & Decker Inc,2021,33221,Cutlery and Handtool Manufacturing,Home and Garden,USA,Retail Value RSP,False,0.0073945921519460445,0.014102849792071659
+TAPESTRY INC,Tapestry Inc,2015,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,,
+TAPESTRY INC,Tapestry Inc,2016,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.11587091556925166,
+TAPESTRY INC,Tapestry Inc,2017,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.04990762483971323,0.060180448545474
+TAPESTRY INC,Tapestry Inc,2018,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.04916592152974797,0.09661979200285586
+TAPESTRY INC,Tapestry Inc,2019,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.02489996736776412,0.0728416590558153
+TAPESTRY INC,Tapestry Inc,2020,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.021895295600789733,0.046250070822586586
+TAPESTRY INC,Tapestry Inc,2021,31699,Other Leather and Allied Product Manufacturing,Luxury Goods,USA,Retail Value RSP,False,0.1039905634800472,0.12360895495374857
+THE COCA-COLA CO,"Coca-Cola Co, The",2015,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,,
+THE COCA-COLA CO,"Coca-Cola Co, The",2016,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.009492110704759749,
+THE COCA-COLA CO,"Coca-Cola Co, The",2017,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.006310434492975303,0.01574264585493257
+THE COCA-COLA CO,"Coca-Cola Co, The",2018,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.009504710239173542,0.01575516588080983
+THE COCA-COLA CO,"Coca-Cola Co, The",2019,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.01551782527428991,0.02487504308068922
+THE COCA-COLA CO,"Coca-Cola Co, The",2020,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.020362799652241304,0.03556463855943237
+THE COCA-COLA CO,"Coca-Cola Co, The",2021,31211,Soft Drink and Ice Manufacturing,Soft Drinks,USA,Off-trade Value RSP,False,0.03434457509160227,0.05400802304211194
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2015,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,,
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2016,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.009492110704759749,
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2017,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.006310434492975303,0.01574264585493257
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2018,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.009504710239173542,0.01575516588080983
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2019,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.01551782527428991,0.02487504308068922
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2020,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.020362799652241304,0.03556463855943237
+THE COCA-COLA TRADING CO LLC,"Coca-Cola Co, The",2021,42449,Other Grocery and Related Products Merchant Wholesalers,Soft Drinks,USA,Off-trade Value RSP,False,0.03434457509160227,0.05400802304211194
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2015,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,,
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2016,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.017948222918227508,
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2017,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.033386858663119634,0.05193431636317225
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2018,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.04915046493747077,0.08417830322668429
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2019,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.023089915373872616,0.0733752603873361
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2020,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.09363941888711458,0.11889146051874921
+THE COOPER COMPANIES INC,"Cooper Cos Inc, The",2021,33911,Medical Equipment and Supplies Manufacturing,Eyewear,USA,Retail Value RSP,False,0.06195007135069974,0.025888378855120076
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2015,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,,
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2016,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.09366117352822168,
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2017,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.050397627147221846,0.13933849977379698
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2018,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.01945415994384403,0.06887134359175362
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2019,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.010796897335404232,0.008867307176099959
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2020,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.04466023332593938,0.05593932261553913
+THE PROCTER & GAMBLE CO,"Procter & Gamble Co, The",2021,32561,Soap and Cleaning Compound Manufacturing,Beauty and Personal Care,USA,Retail Value RSP,False,0.04327209425405787,0.0005444027540065788
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2015,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,,
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2016,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.09366117352822168,
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2017,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.050397627147221846,0.13933849977379698
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2018,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.01945415994384403,0.06887134359175362
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2019,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.010796897335404232,0.008867307176099959
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2020,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.04466023332593938,0.05593932261553913
+THE PROCTER & GAMBLE US BUSINESS SERVICES CO,"Procter & Gamble Co, The",2021,54191,Marketing Research and Public Opinion Polling,Beauty and Personal Care,USA,Retail Value RSP,False,0.04327209425405787,0.0005444027540065788
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2017,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,False,,
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2018,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,False,0.06177480510254685,
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2019,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,False,0.04645409485537155,0.11109859261382415
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2020,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,False,0.0003542864827724701,0.04608335031472244
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2021,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,False,0.14926242546347068,0.1488552573209705
+THE WONDERFUL COMPANY LLC,"Wonderful Co LLC, The",2022,11511,Support Activities for Crop Production,Snacks,USA,Retail Value RSP,True,0.06648240122674687,0.22566815114795724

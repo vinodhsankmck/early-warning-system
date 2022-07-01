@@ -53,6 +53,6 @@ def get_consumer_exp_data_in_chunk(start_year,end_year):
 
 def run(start_year,end_year):
     results_df = get_consumer_exp_data_in_chunk(start_year,end_year)
-    results_df.to_csv("/output/macroeconomics/unemployment/external_data_consumer_spend.csv", index=False)
+    results_df.to_csv("/output/macroeconomics/unemployment/consumer_spend.csv", index=False)
 
 # run("2015","2022")

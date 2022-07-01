@@ -1,0 +1,332 @@
+client_name,Company,industry_code,industry_name,year,as_of_date,total_negative_events,total_positive_events,total_events,negative_events_flag,pct_negative_events,negative_events_qoq_L1,negative_events_qoq_L2,negative_events_qoq_L3,negative_events_qoq_L4,negative_events_qoq_L5,negative_events_qoq_L6,negative_events_qoq_L7,negative_events_qoq_L8
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-06-30,0.0,4.0,4.0,0,0.0,,,,,,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-12-31,1.0,2.0,3.0,1,0.3333333333333333,0.0,,,,,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-03-31,0.0,1.0,1.0,0,0.0,1.0,0.0,,,,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-06-30,1.0,0.0,1.0,1,1.0,0.0,1.0,0.0,,,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-09-30,0.0,3.0,3.0,0,0.0,1.0,0.0,1.0,0.0,,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-12-31,1.0,1.0,2.0,1,0.5,0.0,1.0,0.0,1.0,0.0,,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,2.0,0.0,2.0,1,1.0,1.0,0.0,1.0,0.0,1.0,0.0,,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,0.0,4.0,4.0,0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,1.0,3.0,4.0,1,0.25,0.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-12-31,1.0,3.0,4.0,1,0.25,1.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-03-31,1.0,4.0,5.0,1,0.2,1.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-06-30,5.0,2.0,7.0,1,0.7142857142857143,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-09-30,0.0,4.0,4.0,0,0.0,5.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,1.0,4.0,5.0,1,0.2,0.0,5.0,1.0,1.0,1.0,0.0,2.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,3.0,2.0,5.0,1,0.6,1.0,0.0,5.0,1.0,1.0,1.0,0.0,2.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,3.0,5.0,8.0,1,0.375,3.0,1.0,0.0,5.0,1.0,1.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,3.0,5.0,8.0,1,0.375,3.0,3.0,1.0,0.0,5.0,1.0,1.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,2.0,5.0,7.0,1,0.2857142857142857,3.0,3.0,3.0,1.0,0.0,5.0,1.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,0.0,11.0,11.0,0,0.0,2.0,3.0,3.0,3.0,1.0,0.0,5.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,0.0,9.0,9.0,0,0.0,0.0,2.0,3.0,3.0,3.0,1.0,0.0,5.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,0.0,7.0,7.0,0,0.0,0.0,0.0,2.0,3.0,3.0,3.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-12-31,0.0,7.0,7.0,0,0.0,0.0,0.0,0.0,2.0,3.0,3.0,3.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,2.0,18.0,20.0,1,0.1,0.0,0.0,0.0,0.0,2.0,3.0,3.0,3.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,3.0,13.0,16.0,1,0.1875,2.0,0.0,0.0,0.0,0.0,2.0,3.0,3.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,3.0,5.0,8.0,1,0.375,3.0,2.0,0.0,0.0,0.0,0.0,2.0,3.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,0.0,1.0,1.0,0,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0,2.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-03-31,1.0,3.0,4.0,1,0.25,0.0,3.0,3.0,2.0,0.0,0.0,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,0.0,1.0,1.0,0,0.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-09-30,2.0,4.0,6.0,1,0.3333333333333333,0.0,1.0,0.0,3.0,3.0,2.0,0.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,4.0,5.0,9.0,1,0.4444444444444444,2.0,0.0,1.0,0.0,3.0,3.0,2.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,4.0,11.0,15.0,1,0.26666666666666666,4.0,2.0,0.0,1.0,0.0,3.0,3.0,2.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,2.0,2.0,4.0,1,0.5,4.0,4.0,2.0,0.0,1.0,0.0,3.0,3.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,0.0,1.0,1.0,0,0.0,2.0,4.0,4.0,2.0,0.0,1.0,0.0,3.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-12-31,0.0,5.0,5.0,0,0.0,0.0,2.0,4.0,4.0,2.0,0.0,1.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,2.0,7.0,9.0,1,0.2222222222222222,0.0,0.0,2.0,4.0,4.0,2.0,0.0,1.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-06-30,0.0,7.0,7.0,0,0.0,2.0,0.0,0.0,2.0,4.0,4.0,2.0,0.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,0.0,1.0,1.0,0,0.0,0.0,2.0,0.0,0.0,2.0,4.0,4.0,2.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,0.0,2.0,2.0,0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,4.0,4.0
+ALLERGAN INC,Allergan,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,4.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-03-31,0.0,2.0,2.0,0,0.0,,,,,,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-09-30,0.0,4.0,4.0,0,0.0,0.0,,,,,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-12-31,1.0,0.0,1.0,1,1.0,0.0,0.0,,,,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-03-31,1.0,3.0,4.0,1,0.25,1.0,0.0,0.0,,,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-06-30,0.0,2.0,2.0,0,0.0,1.0,1.0,0.0,0.0,,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-09-30,2.0,0.0,2.0,1,1.0,0.0,1.0,1.0,0.0,0.0,,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-12-31,1.0,0.0,1.0,1,1.0,2.0,0.0,1.0,1.0,0.0,0.0,,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,0.0,1.0,1.0,0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,1.0,2.0,3.0,1,0.3333333333333333,0.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,2.0,2.0,4.0,1,0.5,1.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-12-31,1.0,0.0,1.0,1,1.0,2.0,1.0,0.0,1.0,2.0,0.0,1.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-03-31,1.0,6.0,7.0,1,0.14285714285714285,1.0,2.0,1.0,0.0,1.0,2.0,0.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-06-30,2.0,0.0,2.0,1,1.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-09-30,0.0,2.0,2.0,0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,0.0,1.0,1.0,0,0.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,2.0,3.0,5.0,1,0.4,0.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,0.0,4.0,4.0,0,0.0,2.0,0.0,0.0,2.0,1.0,1.0,2.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,1.0,10.0,11.0,1,0.09090909090909091,0.0,2.0,0.0,0.0,2.0,1.0,1.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,2.0,8.0,10.0,1,0.2,1.0,0.0,2.0,0.0,0.0,2.0,1.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,3.0,11.0,14.0,1,0.21428571428571427,2.0,1.0,0.0,2.0,0.0,0.0,2.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,0.0,8.0,8.0,0,0.0,3.0,2.0,1.0,0.0,2.0,0.0,0.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,0.0,6.0,6.0,0,0.0,0.0,3.0,2.0,1.0,0.0,2.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-12-31,2.0,9.0,11.0,1,0.18181818181818182,0.0,0.0,3.0,2.0,1.0,0.0,2.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,4.0,11.0,15.0,1,0.26666666666666666,2.0,0.0,0.0,3.0,2.0,1.0,0.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,2.0,11.0,13.0,1,0.15384615384615385,4.0,2.0,0.0,0.0,3.0,2.0,1.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,3.0,9.0,12.0,1,0.25,2.0,4.0,2.0,0.0,0.0,3.0,2.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,9.0,5.0,14.0,1,0.6428571428571429,3.0,2.0,4.0,2.0,0.0,0.0,3.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-03-31,2.0,13.0,15.0,1,0.13333333333333333,9.0,3.0,2.0,4.0,2.0,0.0,0.0,3.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,0.0,11.0,11.0,0,0.0,2.0,9.0,3.0,2.0,4.0,2.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-09-30,0.0,8.0,8.0,0,0.0,0.0,2.0,9.0,3.0,2.0,4.0,2.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,2.0,6.0,8.0,1,0.25,0.0,0.0,2.0,9.0,3.0,2.0,4.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,12.0,9.0,21.0,1,0.5714285714285714,2.0,0.0,0.0,2.0,9.0,3.0,2.0,4.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,1.0,6.0,7.0,1,0.14285714285714285,12.0,2.0,0.0,0.0,2.0,9.0,3.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,2.0,2.0,4.0,1,0.5,1.0,12.0,2.0,0.0,0.0,2.0,9.0,3.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-12-31,7.0,7.0,14.0,1,0.5,2.0,1.0,12.0,2.0,0.0,0.0,2.0,9.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,2.0,2.0,4.0,1,0.5,7.0,2.0,1.0,12.0,2.0,0.0,0.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-06-30,1.0,6.0,7.0,1,0.14285714285714285,2.0,7.0,2.0,1.0,12.0,2.0,0.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,4.0,2.0,6.0,1,0.6666666666666666,1.0,2.0,7.0,2.0,1.0,12.0,2.0,0.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,0.0,7.0,7.0,0,0.0,4.0,1.0,2.0,7.0,2.0,1.0,12.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,4.0,5.0,9.0,1,0.4444444444444444,0.0,4.0,1.0,2.0,7.0,2.0,1.0,12.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,1.0,2.0,3.0,1,0.3333333333333333,4.0,0.0,4.0,1.0,2.0,7.0,2.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,0.0,2.0,2.0,0,0.0,1.0,4.0,0.0,4.0,1.0,2.0,7.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,5.0,2.0,7.0,1,0.7142857142857143,0.0,1.0,4.0,0.0,4.0,1.0,2.0,7.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-03-31,0.0,6.0,6.0,0,0.0,5.0,0.0,1.0,4.0,0.0,4.0,1.0,2.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-06-30,0.0,3.0,3.0,0,0.0,0.0,5.0,0.0,1.0,4.0,0.0,4.0,1.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,0.0,1.0,1.0,0,0.0,0.0,0.0,5.0,0.0,1.0,4.0,0.0,4.0
+AMGEN INC,Amgen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,5.0,0.0,1.0,4.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-09-30,0.0,1.0,1.0,0,0.0,,,,,,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,0.0,1.0,1.0,0,0.0,0.0,,,,,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,1.0,0.0,1.0,1,1.0,0.0,0.0,,,,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,1.0,0.0,1.0,1,1.0,1.0,0.0,0.0,,,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,0.0,1.0,1.0,0,0.0,1.0,1.0,0.0,0.0,,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,1.0,0.0,1.0,1,1.0,0.0,1.0,1.0,0.0,0.0,,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,1.0,0.0,1.0,1,1.0,1.0,0.0,1.0,1.0,0.0,0.0,,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,1.0,0.0,1.0,1,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,0.0,1.0,1.0,0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,1.0,0.0,1.0,1,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+AMNEAL PHARMACEUTICALS LLC,Amneal Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,0.0,1.0,1.0,0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+ATAI LIFE SCIENCES US INC,ATAI Life Sciences,54171,Research and Development in the Physical Engineering and Lif,2021,2021-12-31,0.0,1.0,1.0,0,0.0,,,,,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-03-31,0.0,1.0,1.0,0,0.0,,,,,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-12-31,0.0,1.0,1.0,0,0.0,0.0,,,,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,,,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-09-30,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,1.0,3.0,4.0,1,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,0.0,1.0,1.0,0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-12-31,3.0,2.0,5.0,1,0.6,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,3.0,2.0,5.0,1,0.6,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,0.0,2.0,2.0,0,0.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,0.0,1.0,1.0,0,0.0,0.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,1.0,2.0,3.0,1,0.3333333333333333,0.0,0.0,3.0,3.0,0.0,1.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,0.0,2.0,2.0,0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,1.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,0.0,5.0,5.0,0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,0.0,1.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,0.0,3.0,3.0,0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,3.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,1.0,1.0,2.0,1,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,0.0,1.0,1.0,0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-06-30,0.0,1.0,1.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,2.0,2.0,4.0,1,0.5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,0.0,3.0,3.0,0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,0.0,1.0,1.0,0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,2.0,1.0,3.0,1,0.6666666666666666,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,2.0,2.0,4.0,1,0.5,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,0.0,1.0,1.0,0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0
+BIOMARIN PHARMACEUTICAL INC,BioMarin Pharmaceutical,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-06-30,0.0,4.0,4.0,0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-03-31,0.0,6.0,6.0,0,0.0,,,,,,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-06-30,0.0,6.0,6.0,0,0.0,0.0,,,,,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-09-30,2.0,2.0,4.0,1,0.5,0.0,0.0,,,,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-12-31,2.0,7.0,9.0,1,0.2222222222222222,2.0,0.0,0.0,,,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-03-31,2.0,10.0,12.0,1,0.16666666666666666,2.0,2.0,0.0,0.0,,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-06-30,3.0,3.0,6.0,1,0.5,2.0,2.0,2.0,0.0,0.0,,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-09-30,3.0,8.0,11.0,1,0.2727272727272727,3.0,2.0,2.0,2.0,0.0,0.0,,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-12-31,3.0,2.0,5.0,1,0.6,3.0,3.0,2.0,2.0,2.0,0.0,0.0,
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,1.0,3.0,4.0,1,0.25,3.0,3.0,3.0,2.0,2.0,2.0,0.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,1.0,7.0,8.0,1,0.125,1.0,3.0,3.0,3.0,2.0,2.0,2.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,3.0,11.0,14.0,1,0.21428571428571427,1.0,1.0,3.0,3.0,3.0,2.0,2.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-12-31,0.0,11.0,11.0,0,0.0,3.0,1.0,1.0,3.0,3.0,3.0,2.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-03-31,2.0,3.0,5.0,1,0.4,0.0,3.0,1.0,1.0,3.0,3.0,3.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-06-30,1.0,3.0,4.0,1,0.25,2.0,0.0,3.0,1.0,1.0,3.0,3.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-09-30,0.0,6.0,6.0,0,0.0,1.0,2.0,0.0,3.0,1.0,1.0,3.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,1.0,10.0,11.0,1,0.09090909090909091,0.0,1.0,2.0,0.0,3.0,1.0,1.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,1.0,2.0,3.0,1,0.3333333333333333,1.0,0.0,1.0,2.0,0.0,3.0,1.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,0.0,9.0,9.0,0,0.0,1.0,1.0,0.0,1.0,2.0,0.0,3.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,2.0,7.0,9.0,1,0.2222222222222222,0.0,1.0,1.0,0.0,1.0,2.0,0.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,4.0,6.0,10.0,1,0.4,2.0,0.0,1.0,1.0,0.0,1.0,2.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,4.0,11.0,15.0,1,0.26666666666666666,4.0,2.0,0.0,1.0,1.0,0.0,1.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,1.0,12.0,13.0,1,0.07692307692307693,4.0,4.0,2.0,0.0,1.0,1.0,0.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,2.0,12.0,14.0,1,0.14285714285714285,1.0,4.0,4.0,2.0,0.0,1.0,1.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-12-31,3.0,13.0,16.0,1,0.1875,2.0,1.0,4.0,4.0,2.0,0.0,1.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,2.0,15.0,17.0,1,0.11764705882352941,3.0,2.0,1.0,4.0,4.0,2.0,0.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,1.0,13.0,14.0,1,0.07142857142857142,2.0,3.0,2.0,1.0,4.0,4.0,2.0,0.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,4.0,11.0,15.0,1,0.26666666666666666,1.0,2.0,3.0,2.0,1.0,4.0,4.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,9.0,16.0,25.0,1,0.36,4.0,1.0,2.0,3.0,2.0,1.0,4.0,4.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-03-31,3.0,12.0,15.0,1,0.2,9.0,4.0,1.0,2.0,3.0,2.0,1.0,4.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,1.0,17.0,18.0,1,0.05555555555555555,3.0,9.0,4.0,1.0,2.0,3.0,2.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-09-30,9.0,23.0,32.0,1,0.28125,1.0,3.0,9.0,4.0,1.0,2.0,3.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,10.0,17.0,27.0,1,0.37037037037037035,9.0,1.0,3.0,9.0,4.0,1.0,2.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,18.0,20.0,38.0,1,0.47368421052631576,10.0,9.0,1.0,3.0,9.0,4.0,1.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,2.0,16.0,18.0,1,0.1111111111111111,18.0,10.0,9.0,1.0,3.0,9.0,4.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,4.0,15.0,19.0,1,0.21052631578947367,2.0,18.0,10.0,9.0,1.0,3.0,9.0,4.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-12-31,14.0,15.0,29.0,1,0.4827586206896552,4.0,2.0,18.0,10.0,9.0,1.0,3.0,9.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,11.0,22.0,33.0,1,0.3333333333333333,14.0,4.0,2.0,18.0,10.0,9.0,1.0,3.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-06-30,5.0,9.0,14.0,1,0.35714285714285715,11.0,14.0,4.0,2.0,18.0,10.0,9.0,1.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,9.0,17.0,26.0,1,0.34615384615384615,5.0,11.0,14.0,4.0,2.0,18.0,10.0,9.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,9.0,49.0,58.0,1,0.15517241379310345,9.0,5.0,11.0,14.0,4.0,2.0,18.0,10.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,14.0,26.0,40.0,1,0.35,9.0,9.0,5.0,11.0,14.0,4.0,2.0,18.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,4.0,22.0,26.0,1,0.15384615384615385,14.0,9.0,9.0,5.0,11.0,14.0,4.0,2.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,1.0,16.0,17.0,1,0.058823529411764705,4.0,14.0,9.0,9.0,5.0,11.0,14.0,4.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,4.0,16.0,20.0,1,0.2,1.0,4.0,14.0,9.0,9.0,5.0,11.0,14.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-03-31,1.0,12.0,13.0,1,0.07692307692307693,4.0,1.0,4.0,14.0,9.0,9.0,5.0,11.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-06-30,0.0,13.0,13.0,0,0.0,1.0,4.0,1.0,4.0,14.0,9.0,9.0,5.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,3.0,14.0,17.0,1,0.17647058823529413,0.0,1.0,4.0,1.0,4.0,14.0,9.0,9.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-12-31,0.0,10.0,10.0,0,0.0,3.0,0.0,1.0,4.0,1.0,4.0,14.0,9.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2022,2022-03-31,5.0,9.0,14.0,1,0.35714285714285715,0.0,3.0,0.0,1.0,4.0,1.0,4.0,14.0
+BRISTOL-MYERS SQUIBB INTERNATIONAL CORP,Bristol Myers Squibb,32541,Pharmaceutical and Medicine Manufacturing,2022,2022-06-30,0.0,1.0,1.0,0,0.0,5.0,0.0,3.0,0.0,1.0,4.0,1.0,4.0
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,0.0,2.0,2.0,0,0.0,,,,,,,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,1.0,0.0,1.0,1,1.0,0.0,,,,,,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,1.0,0.0,1.0,1,1.0,1.0,0.0,,,,,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,1.0,0.0,1.0,1,1.0,1.0,1.0,0.0,,,,,
+HIKMA PHARMACEUTICALS USA INC,Hikma Pharmaceuticals,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,0.0,1.0,1.0,0,0.0,1.0,1.0,1.0,0.0,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2010,2010-03-31,0.0,1.0,1.0,0,0.0,,,,,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2010,2010-06-30,1.0,1.0,2.0,1,0.5,0.0,,,,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2010,2010-09-30,0.0,1.0,1.0,0,0.0,1.0,0.0,,,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2010,2010-12-31,0.0,1.0,1.0,0,0.0,0.0,1.0,0.0,,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2011,2011-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,1.0,0.0,,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2012,2012-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,1.0,0.0,,,
+HUMAN GENOME SCIENCES INC,Human Genome Sciences,54171,Research and Development in the Physical Engineering and Lif,2012,2012-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2010,2010-03-31,5.0,4.0,9.0,1,0.5555555555555556,,,,,,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2010,2010-06-30,1.0,2.0,3.0,1,0.3333333333333333,5.0,,,,,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2010,2010-09-30,1.0,2.0,3.0,1,0.3333333333333333,1.0,5.0,,,,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2010,2010-12-31,3.0,8.0,11.0,1,0.2727272727272727,1.0,1.0,5.0,,,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2011,2011-03-31,4.0,3.0,7.0,1,0.5714285714285714,3.0,1.0,1.0,5.0,,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2011,2011-06-30,1.0,9.0,10.0,1,0.1,4.0,3.0,1.0,1.0,5.0,,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2011,2011-09-30,0.0,10.0,10.0,0,0.0,1.0,4.0,3.0,1.0,1.0,5.0,,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2011,2011-12-31,0.0,5.0,5.0,0,0.0,0.0,1.0,4.0,3.0,1.0,1.0,5.0,
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2012,2012-03-31,2.0,6.0,8.0,1,0.25,0.0,0.0,1.0,4.0,3.0,1.0,1.0,5.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2012,2012-06-30,3.0,7.0,10.0,1,0.3,2.0,0.0,0.0,1.0,4.0,3.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2012,2012-09-30,5.0,8.0,13.0,1,0.38461538461538464,3.0,2.0,0.0,0.0,1.0,4.0,3.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2012,2012-12-31,2.0,8.0,10.0,1,0.2,5.0,3.0,2.0,0.0,0.0,1.0,4.0,3.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2013,2013-03-31,0.0,3.0,3.0,0,0.0,2.0,5.0,3.0,2.0,0.0,0.0,1.0,4.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2013,2013-06-30,3.0,7.0,10.0,1,0.3,0.0,2.0,5.0,3.0,2.0,0.0,0.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2013,2013-09-30,1.0,8.0,9.0,1,0.1111111111111111,3.0,0.0,2.0,5.0,3.0,2.0,0.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2013,2013-12-31,1.0,7.0,8.0,1,0.125,1.0,3.0,0.0,2.0,5.0,3.0,2.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2014,2014-03-31,1.0,6.0,7.0,1,0.14285714285714285,1.0,1.0,3.0,0.0,2.0,5.0,3.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2014,2014-06-30,0.0,10.0,10.0,0,0.0,1.0,1.0,1.0,3.0,0.0,2.0,5.0,3.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2014,2014-09-30,1.0,7.0,8.0,1,0.125,0.0,1.0,1.0,1.0,3.0,0.0,2.0,5.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2014,2014-12-31,0.0,9.0,9.0,0,0.0,1.0,0.0,1.0,1.0,1.0,3.0,0.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2015,2015-03-31,1.0,10.0,11.0,1,0.09090909090909091,0.0,1.0,0.0,1.0,1.0,1.0,3.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2015,2015-06-30,0.0,12.0,12.0,0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,3.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2015,2015-09-30,2.0,13.0,15.0,1,0.13333333333333333,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2015,2015-12-31,0.0,10.0,10.0,0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2016,2016-03-31,1.0,6.0,7.0,1,0.14285714285714285,0.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2016,2016-06-30,2.0,12.0,14.0,1,0.14285714285714285,1.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2016,2016-09-30,2.0,19.0,21.0,1,0.09523809523809523,2.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2016,2016-12-31,5.0,13.0,18.0,1,0.2777777777777778,2.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2017,2017-03-31,2.0,8.0,10.0,1,0.2,5.0,2.0,2.0,1.0,0.0,2.0,0.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2017,2017-06-30,3.0,16.0,19.0,1,0.15789473684210525,2.0,5.0,2.0,2.0,1.0,0.0,2.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2017,2017-09-30,4.0,10.0,14.0,1,0.2857142857142857,3.0,2.0,5.0,2.0,2.0,1.0,0.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2017,2017-12-31,1.0,14.0,15.0,1,0.06666666666666667,4.0,3.0,2.0,5.0,2.0,2.0,1.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2018,2018-03-31,1.0,9.0,10.0,1,0.1,1.0,4.0,3.0,2.0,5.0,2.0,2.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2018,2018-06-30,5.0,5.0,10.0,1,0.5,1.0,1.0,4.0,3.0,2.0,5.0,2.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2018,2018-09-30,0.0,17.0,17.0,0,0.0,5.0,1.0,1.0,4.0,3.0,2.0,5.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2018,2018-12-31,3.0,7.0,10.0,1,0.3,0.0,5.0,1.0,1.0,4.0,3.0,2.0,5.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2019,2019-03-31,1.0,10.0,11.0,1,0.09090909090909091,3.0,0.0,5.0,1.0,1.0,4.0,3.0,2.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2019,2019-06-30,1.0,11.0,12.0,1,0.08333333333333333,1.0,3.0,0.0,5.0,1.0,1.0,4.0,3.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2019,2019-09-30,1.0,11.0,12.0,1,0.08333333333333333,1.0,1.0,3.0,0.0,5.0,1.0,1.0,4.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2019,2019-12-31,1.0,8.0,9.0,1,0.1111111111111111,1.0,1.0,1.0,3.0,0.0,5.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2020,2020-03-31,0.0,11.0,11.0,0,0.0,1.0,1.0,1.0,1.0,3.0,0.0,5.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2020,2020-06-30,1.0,14.0,15.0,1,0.06666666666666667,0.0,1.0,1.0,1.0,1.0,3.0,0.0,5.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2020,2020-09-30,1.0,7.0,8.0,1,0.125,1.0,0.0,1.0,1.0,1.0,1.0,3.0,0.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2020,2020-12-31,0.0,11.0,11.0,0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,3.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2021,2021-03-31,0.0,4.0,4.0,0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2021,2021-06-30,0.0,5.0,5.0,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2021,2021-09-30,2.0,1.0,3.0,1,0.6666666666666666,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2021,2021-12-31,0.0,2.0,2.0,0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+JOHNSON & JOHNSON SERVICES INC,Johnson & Johnson,42421,Drugs and Druggists' Sundries Merchant Wholesalers,2022,2022-03-31,0.0,1.0,1.0,0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,1.0,0.0,1.0,1,1.0,,,,,,,,
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,0.0,2.0,2.0,0,0.0,1.0,,,,,,,
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,0.0,3.0,3.0,0,0.0,0.0,1.0,,,,,,
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-03-31,0.0,3.0,3.0,0,0.0,0.0,0.0,1.0,,,,,
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,1.0,,,,
+MODERNA INC,Moderna,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,1.0,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-03-31,4.0,0.0,4.0,1,1.0,,,,,,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-06-30,2.0,2.0,4.0,1,0.5,4.0,,,,,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-09-30,4.0,3.0,7.0,1,0.5714285714285714,2.0,4.0,,,,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-12-31,2.0,4.0,6.0,1,0.3333333333333333,4.0,2.0,4.0,,,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-03-31,4.0,11.0,15.0,1,0.26666666666666666,2.0,4.0,2.0,4.0,,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-06-30,2.0,5.0,7.0,1,0.2857142857142857,4.0,2.0,4.0,2.0,4.0,,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-09-30,1.0,5.0,6.0,1,0.16666666666666666,2.0,4.0,2.0,4.0,2.0,4.0,,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-12-31,1.0,4.0,5.0,1,0.2,1.0,2.0,4.0,2.0,4.0,2.0,4.0,
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,3.0,5.0,8.0,1,0.375,1.0,1.0,2.0,4.0,2.0,4.0,2.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-06-30,1.0,9.0,10.0,1,0.1,3.0,1.0,1.0,2.0,4.0,2.0,4.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,4.0,8.0,12.0,1,0.3333333333333333,1.0,3.0,1.0,1.0,2.0,4.0,2.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-12-31,2.0,11.0,13.0,1,0.15384615384615385,4.0,1.0,3.0,1.0,1.0,2.0,4.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-03-31,3.0,4.0,7.0,1,0.42857142857142855,2.0,4.0,1.0,3.0,1.0,1.0,2.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-06-30,1.0,6.0,7.0,1,0.14285714285714285,3.0,2.0,4.0,1.0,3.0,1.0,1.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-09-30,1.0,5.0,6.0,1,0.16666666666666666,1.0,3.0,2.0,4.0,1.0,3.0,1.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-12-31,3.0,10.0,13.0,1,0.23076923076923078,1.0,1.0,3.0,2.0,4.0,1.0,3.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,4.0,3.0,7.0,1,0.5714285714285714,3.0,1.0,1.0,3.0,2.0,4.0,1.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-06-30,1.0,15.0,16.0,1,0.0625,4.0,3.0,1.0,1.0,3.0,2.0,4.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,1.0,6.0,7.0,1,0.14285714285714285,1.0,4.0,3.0,1.0,1.0,3.0,2.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,5.0,7.0,12.0,1,0.4166666666666667,1.0,1.0,4.0,3.0,1.0,1.0,3.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,5.0,7.0,12.0,1,0.4166666666666667,5.0,1.0,1.0,4.0,3.0,1.0,1.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,0.0,3.0,3.0,0,0.0,5.0,5.0,1.0,1.0,4.0,3.0,1.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-09-30,3.0,10.0,13.0,1,0.23076923076923078,0.0,5.0,5.0,1.0,1.0,4.0,3.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-12-31,3.0,9.0,12.0,1,0.25,3.0,0.0,5.0,5.0,1.0,1.0,4.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,3.0,10.0,13.0,1,0.23076923076923078,3.0,3.0,0.0,5.0,5.0,1.0,1.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,2.0,11.0,13.0,1,0.15384615384615385,3.0,3.0,3.0,0.0,5.0,5.0,1.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,5.0,15.0,20.0,1,0.25,2.0,3.0,3.0,3.0,0.0,5.0,5.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,15.0,18.0,33.0,1,0.45454545454545453,5.0,2.0,3.0,3.0,3.0,0.0,5.0,5.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-03-31,2.0,12.0,14.0,1,0.14285714285714285,15.0,5.0,2.0,3.0,3.0,3.0,0.0,5.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,3.0,18.0,21.0,1,0.14285714285714285,2.0,15.0,5.0,2.0,3.0,3.0,3.0,0.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-09-30,0.0,18.0,18.0,0,0.0,3.0,2.0,15.0,5.0,2.0,3.0,3.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,2.0,13.0,15.0,1,0.13333333333333333,0.0,3.0,2.0,15.0,5.0,2.0,3.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,8.0,16.0,24.0,1,0.3333333333333333,2.0,0.0,3.0,2.0,15.0,5.0,2.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,2.0,16.0,18.0,1,0.1111111111111111,8.0,2.0,0.0,3.0,2.0,15.0,5.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,4.0,3.0,7.0,1,0.5714285714285714,2.0,8.0,2.0,0.0,3.0,2.0,15.0,5.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-12-31,8.0,11.0,19.0,1,0.42105263157894735,4.0,2.0,8.0,2.0,0.0,3.0,2.0,15.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,5.0,14.0,19.0,1,0.2631578947368421,8.0,4.0,2.0,8.0,2.0,0.0,3.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-06-30,1.0,17.0,18.0,1,0.05555555555555555,5.0,8.0,4.0,2.0,8.0,2.0,0.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,5.0,12.0,17.0,1,0.29411764705882354,1.0,5.0,8.0,4.0,2.0,8.0,2.0,0.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,3.0,19.0,22.0,1,0.13636363636363635,5.0,1.0,5.0,8.0,4.0,2.0,8.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,5.0,21.0,26.0,1,0.19230769230769232,3.0,5.0,1.0,5.0,8.0,4.0,2.0,8.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,4.0,18.0,22.0,1,0.18181818181818182,5.0,3.0,5.0,1.0,5.0,8.0,4.0,2.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,1.0,7.0,8.0,1,0.125,4.0,5.0,3.0,5.0,1.0,5.0,8.0,4.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,7.0,19.0,26.0,1,0.2692307692307692,1.0,4.0,5.0,3.0,5.0,1.0,5.0,8.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-03-31,2.0,3.0,5.0,1,0.4,7.0,1.0,4.0,5.0,3.0,5.0,1.0,5.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-06-30,2.0,3.0,5.0,1,0.4,2.0,7.0,1.0,4.0,5.0,3.0,5.0,1.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,1.0,7.0,8.0,1,0.125,2.0,2.0,7.0,1.0,4.0,5.0,3.0,5.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-12-31,0.0,8.0,8.0,0,0.0,1.0,2.0,2.0,7.0,1.0,4.0,5.0,3.0
+PFIZER INC,Pfizer,32541,Pharmaceutical and Medicine Manufacturing,2022,2022-03-31,0.0,3.0,3.0,0,0.0,0.0,1.0,2.0,2.0,7.0,1.0,4.0,5.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2010,2010-06-30,1.0,2.0,3.0,1,0.3333333333333333,,,,,,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2011,2011-06-30,0.0,2.0,2.0,0,0.0,1.0,,,,,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-03-31,0.0,2.0,2.0,0,0.0,0.0,1.0,,,,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2012,2012-09-30,0.0,1.0,1.0,0,0.0,0.0,0.0,1.0,,,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2013,2013-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,1.0,,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-03-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,1.0,,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-09-30,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2014,2014-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2015,2015-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-03-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-06-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-09-30,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2016,2016-12-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-03-31,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-06-30,2.0,3.0,5.0,1,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-09-30,0.0,2.0,2.0,0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2017,2017-12-31,2.0,3.0,5.0,1,0.4,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-03-31,5.0,2.0,7.0,1,0.7142857142857143,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-06-30,0.0,3.0,3.0,0,0.0,5.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-09-30,0.0,1.0,1.0,0,0.0,0.0,5.0,2.0,0.0,2.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2018,2018-12-31,0.0,3.0,3.0,0,0.0,0.0,0.0,5.0,2.0,0.0,2.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-03-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,2.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-09-30,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,2.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2019,2019-12-31,0.0,7.0,7.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-03-31,0.0,4.0,4.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-06-30,0.0,5.0,5.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-09-30,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2020,2020-12-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-03-31,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-06-30,0.0,3.0,3.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2021,2021-09-30,0.0,4.0,4.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SEAGEN INC,Seagen,32541,Pharmaceutical and Medicine Manufacturing,2022,2022-03-31,0.0,2.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -40,6 +40,6 @@ def get_ppi_data_in_chunk(start_year,end_year):
 
 def run(start_year,end_year):
     results_df = get_ppi_data_in_chunk(start_year,end_year)
-    results_df.to_csv("/output/macroeconomics/producer_price_index/external_data_ppi.csv", index=False)
+    results_df.to_csv("/output/macroeconomics/producer_price_index/ppi.csv", index=False)
 
 # run("2015","2022")

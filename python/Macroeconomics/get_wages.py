@@ -59,6 +59,6 @@ def get_wages_data_in_chunk(start_year,end_year):
 
 def run(start_year,end_year):
     results_df = get_wages_data_in_chunk(start_year,end_year)
-    results_df.to_csv("/output/macroeconomics/wages/external_data_wages.csv", index=False)
+    results_df.to_csv("/output/macroeconomics/wages/US wide Employment & Wages.csv", index=False)
 
 # run("2015","2022")
